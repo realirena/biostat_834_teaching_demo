@@ -1,0 +1,4445 @@
+"year","recipient_isocode","recipient_country","sum_hiv_dah_19"
+1990,"AFG","Afghanistan",0
+1990,"AGO","Angola",364
+1990,"ALB","Albania",0
+1990,"ANT","Netherlands Antilles",0
+1990,"ARG","Argentina",506
+1990,"ARM","Armenia",0
+1990,"ATG","Antigua and Barbuda",4
+1990,"AZE","Azerbaijan",0
+1990,"BDI","Burundi",342
+1990,"BEN","Benin",299
+1990,"BFA","Burkina Faso",512
+1990,"BGD","Bangladesh",0
+1990,"BIH","Bosnia and Herzegovina",0
+1990,"BLR","Belarus",0
+1990,"BLZ","Belize",29
+1990,"BOL","Bolivia",1405
+1990,"BRA","Brazil",2835
+1990,"BRB","Barbados",0
+1990,"BTN","Bhutan",0
+1990,"BWA","Botswana",1627
+1990,"CAF","Central African Republic",132
+1990,"CHL","Chile",305
+1990,"CHN","China",324
+1990,"CIV","Cote d'Ivoire",688
+1990,"CMR","Cameroon",357
+1990,"COD","Democratic Republic of the Congo",1586
+1990,"COG","Congo",81
+1990,"COL","Colombia",698
+1990,"COM","Comoros",10
+1990,"CRI","Costa Rica",36
+1990,"CUB","Cuba",310
+1990,"DJI","Djibouti",73
+1990,"DMA","Dominica",10
+1990,"DOM","Dominican Republic",5241
+1990,"DZA","Algeria",15
+1990,"ECU","Ecuador",416
+1990,"EGY","Egypt",35
+1990,"ERI","Eritrea",980
+1990,"ETH","Ethiopia",4935
+1990,"FJI","Fiji",2
+1990,"FSM","Federated States of Micronesia",32
+1990,"GAB","Gabon",27
+1990,"GEO","Georgia",0
+1990,"GHA","Ghana",793
+1990,"GIN","Guinea",236
+1990,"GMB","The Gambia",76
+1990,"GNB","Guinea-Bissau",268
+1990,"GNQ","Equatorial Guinea",7
+1990,"GRD","Grenada",0
+1990,"GTM","Guatemala",363
+1990,"GUY","Guyana",1653
+1990,"HND","Honduras",709
+1990,"HTI","Haiti",2384
+1990,"IDN","Indonesia",251
+1990,"IND","India",0
+1990,"IRN","Iran",0
+1990,"IRQ","Iraq",0
+1990,"JAM","Jamaica",4444
+1990,"JOR","Jordan",0
+1990,"KAZ","Kazakhstan",0
+1990,"KEN","Kenya",8512
+1990,"KGZ","Kyrgyzstan",0
+1990,"KHM","Cambodia",182
+1990,"KIR","Kiribati",7
+1990,"KOR","South Korea",0
+1990,"KSV","Kosovo",0
+1990,"LAO","Laos",22
+1990,"LBN","Lebanon",0
+1990,"LBR","Liberia",125
+1990,"LBY","Libya",13
+1990,"LCA","Saint Lucia",1
+1990,"LKA","Sri Lanka",0
+1990,"LSO","Lesotho",504
+1990,"MAR","Morocco",55
+1990,"MDA","Moldova",0
+1990,"MDG","Madagascar",151
+1990,"MDV","Maldives",0
+1990,"MEX","Mexico",298
+1990,"MHL","Marshall Islands",7
+1990,"MKD","Macedonia",0
+1990,"MLI","Mali",422
+1990,"MMR","Myanmar",0
+1990,"MNE","Montenegro",0
+1990,"MNG","Mongolia",6
+1990,"MOZ","Mozambique",4647
+1990,"MRT","Mauritania",16
+1990,"MSR","Montserrat",0
+1990,"MUS","Mauritius",12
+1990,"MWI","Malawi",3603
+1990,"MYS","Malaysia",3
+1990,"NAM","Namibia",1385
+1990,"NER","Niger",200
+1990,"NGA","Nigeria",3132
+1990,"NIC","Nicaragua",582
+1990,"NIU","Niue",6
+1990,"NPL","Nepal",0
+1990,"NRU","Nauru",5
+1990,"OMN","Oman",0
+1990,"PAK","Pakistan",142
+1990,"PAN","Panama",23
+1990,"PER","Peru",1411
+1990,"PHL","Philippines",61
+1990,"PLW","Palau",6
+1990,"PNG","Papua New Guinea",1380
+1990,"PRK","North Korea",0
+1990,"PRY","Paraguay",195
+1990,"PSE","Palestine",0
+1990,"QZA","Unallocated/Unspecified",262984
+1990,"RWA","Rwanda",1285
+1990,"SDN","Sudan",396
+1990,"SEN","Senegal",446
+1990,"SHN","Saint Helena",0
+1990,"SLB","Solomon Islands",12
+1990,"SLE","Sierra Leone",190
+1990,"SLV","El Salvador",245
+1990,"SOM","Somalia",78
+1990,"SRB","Serbia",0
+1990,"SSD","South Sudan",528
+1990,"STP","Sao Tome and Principe",7
+1990,"SUR","Suriname",159
+1990,"SWZ","Swaziland",468
+1990,"SYC","Seychelles",0
+1990,"SYR","Syria",0
+1990,"TCD","Chad",2734
+1990,"TGO","Togo",128
+1990,"THA","Thailand",1005
+1990,"TJK","Tajikistan",0
+1990,"TKL","Tokelau",0
+1990,"TKM","Turkmenistan",0
+1990,"TLS","Timor-Leste",6
+1990,"TON","Tonga",6
+1990,"TTO","Trinidad and Tobago",0
+1990,"TUN","Tunisia",17
+1990,"TUR","Turkey",0
+1990,"TUV","Tuvalu",6
+1990,"TZA","Tanzania",22490
+1990,"UGA","Uganda",3800
+1990,"UKR","Ukraine",0
+1990,"URY","Uruguay",1
+1990,"UZB","Uzbekistan",0
+1990,"VCT","Saint Vincent and the Grenadines",0
+1990,"VEN","Venezuela",6
+1990,"VNM","Vietnam",247
+1990,"VUT","Vanuatu",13
+1990,"WLD","Global",4325
+1990,"WLF","Wallis and Futuna Islands",0
+1990,"WSM","Samoa",0
+1990,"YEM","Yemen",0
+1990,"ZAF","South Africa",6081
+1990,"ZMB","Zambia",4560
+1990,"ZWE","Zimbabwe",4325
+1991,"AFG","Afghanistan",0
+1991,"AGO","Angola",557
+1991,"ALB","Albania",0
+1991,"ARG","Argentina",26
+1991,"ARM","Armenia",0
+1991,"ATG","Antigua and Barbuda",5
+1991,"AZE","Azerbaijan",0
+1991,"BDI","Burundi",490
+1991,"BEN","Benin",493
+1991,"BFA","Burkina Faso",842
+1991,"BGD","Bangladesh",0
+1991,"BIH","Bosnia and Herzegovina",0
+1991,"BLR","Belarus",0
+1991,"BLZ","Belize",39
+1991,"BOL","Bolivia",1714
+1991,"BRA","Brazil",305
+1991,"BRB","Barbados",0
+1991,"BTN","Bhutan",0
+1991,"BWA","Botswana",1220
+1991,"CAF","Central African Republic",9055
+1991,"CHL","Chile",21
+1991,"CHN","China",109
+1991,"CIV","Cote d'Ivoire",8459
+1991,"CMR","Cameroon",574
+1991,"COD","Democratic Republic of the Congo",1659
+1991,"COG","Congo",146
+1991,"COL","Colombia",7
+1991,"COM","Comoros",19
+1991,"CRI","Costa Rica",220
+1991,"CUB","Cuba",424
+1991,"DJI","Djibouti",135
+1991,"DMA","Dominica",13
+1991,"DOM","Dominican Republic",3983
+1991,"DZA","Algeria",16
+1991,"ECU","Ecuador",48
+1991,"EGY","Egypt",37
+1991,"ERI","Eritrea",586
+1991,"ETH","Ethiopia",4309
+1991,"FJI","Fiji",1
+1991,"FSM","Federated States of Micronesia",17
+1991,"GAB","Gabon",50
+1991,"GEO","Georgia",0
+1991,"GHA","Ghana",1360
+1991,"GIN","Guinea",395
+1991,"GMB","The Gambia",139
+1991,"GNB","Guinea-Bissau",358
+1991,"GNQ","Equatorial Guinea",9
+1991,"GRD","Grenada",4
+1991,"GTM","Guatemala",493
+1991,"GUY","Guyana",145
+1991,"HND","Honduras",1005
+1991,"HTI","Haiti",7673
+1991,"IDN","Indonesia",84
+1991,"IND","India",91
+1991,"IRN","Iran",0
+1991,"IRQ","Iraq",0
+1991,"JAM","Jamaica",3677
+1991,"JOR","Jordan",0
+1991,"KAZ","Kazakhstan",0
+1991,"KEN","Kenya",5537
+1991,"KGZ","Kyrgyzstan",0
+1991,"KHM","Cambodia",61
+1991,"KIR","Kiribati",2
+1991,"KOR","South Korea",0
+1991,"KSV","Kosovo",0
+1991,"LAO","Laos",7
+1991,"LBN","Lebanon",0
+1991,"LBR","Liberia",170
+1991,"LBY","Libya",13
+1991,"LCA","Saint Lucia",14
+1991,"LKA","Sri Lanka",298
+1991,"LSO","Lesotho",2455
+1991,"MAR","Morocco",58
+1991,"MDA","Moldova",0
+1991,"MDG","Madagascar",260
+1991,"MDV","Maldives",0
+1991,"MEX","Mexico",431
+1991,"MHL","Marshall Islands",3
+1991,"MKD","Macedonia",0
+1991,"MLI","Mali",623
+1991,"MMR","Myanmar",0
+1991,"MNE","Montenegro",0
+1991,"MNG","Mongolia",2
+1991,"MNP","Northern Mariana Islands",1831
+1991,"MOZ","Mozambique",4373
+1991,"MRT","Mauritania",29
+1991,"MSR","Montserrat",1
+1991,"MUS","Mauritius",23
+1991,"MWI","Malawi",3143
+1991,"MYS","Malaysia",0
+1991,"NAM","Namibia",1096
+1991,"NER","Niger",320
+1991,"NGA","Nigeria",3544
+1991,"NIC","Nicaragua",842
+1991,"NIU","Niue",2
+1991,"NPL","Nepal",0
+1991,"NRU","Nauru",2
+1991,"OMN","Oman",0
+1991,"PAK","Pakistan",102
+1991,"PAN","Panama",31
+1991,"PER","Peru",269
+1991,"PHL","Philippines",20
+1991,"PLW","Palau",2
+1991,"PNG","Papua New Guinea",691
+1991,"PRK","North Korea",0
+1991,"PRY","Paraguay",21
+1991,"PSE","Palestine",0
+1991,"QZA","Unallocated/Unspecified",396311
+1991,"RWA","Rwanda",1898
+1991,"SDN","Sudan",532
+1991,"SEN","Senegal",726
+1991,"SHN","Saint Helena",0
+1991,"SLB","Solomon Islands",5
+1991,"SLE","Sierra Leone",322
+1991,"SLV","El Salvador",306
+1991,"SOM","Somalia",135
+1991,"SRB","Serbia",0
+1991,"SSD","South Sudan",90
+1991,"STP","Sao Tome and Principe",13
+1991,"SUR","Suriname",4
+1991,"SWZ","Swaziland",1747
+1991,"SYC","Seychelles",0
+1991,"SYR","Syria",0
+1991,"TCA","Turks and Caicos Islands",0
+1991,"TCD","Chad",338
+1991,"TGO","Togo",213
+1991,"THA","Thailand",151
+1991,"TJK","Tajikistan",0
+1991,"TKL","Tokelau",0
+1991,"TKM","Turkmenistan",0
+1991,"TLS","Timor-Leste",2
+1991,"TON","Tonga",2
+1991,"TTO","Trinidad and Tobago",0
+1991,"TUN","Tunisia",18
+1991,"TUR","Turkey",0
+1991,"TUV","Tuvalu",2
+1991,"TZA","Tanzania",6819
+1991,"UGA","Uganda",64165
+1991,"UKR","Ukraine",0
+1991,"URY","Uruguay",0
+1991,"UZB","Uzbekistan",0
+1991,"VCT","Saint Vincent and the Grenadines",5
+1991,"VEN","Venezuela",1
+1991,"VNM","Vietnam",98
+1991,"VUT","Vanuatu",4
+1991,"WLD","Global",6721
+1991,"WLF","Wallis and Futuna Islands",0
+1991,"WSM","Samoa",0
+1991,"YEM","Yemen",0
+1991,"ZAF","South Africa",5955
+1991,"ZMB","Zambia",4467
+1991,"ZWE","Zimbabwe",6302
+1992,"AFG","Afghanistan",0
+1992,"AGO","Angola",335
+1992,"AIA","Anguilla",0
+1992,"ALB","Albania",0
+1992,"ARG","Argentina",31
+1992,"ARM","Armenia",0
+1992,"ATG","Antigua and Barbuda",3
+1992,"AZE","Azerbaijan",0
+1992,"BDI","Burundi",253
+1992,"BEN","Benin",246
+1992,"BFA","Burkina Faso",423
+1992,"BGD","Bangladesh",0
+1992,"BIH","Bosnia and Herzegovina",0
+1992,"BLR","Belarus",0
+1992,"BLZ","Belize",35
+1992,"BOL","Bolivia",2402
+1992,"BRA","Brazil",671
+1992,"BRB","Barbados",0
+1992,"BTN","Bhutan",0
+1992,"BWA","Botswana",608
+1992,"CAF","Central African Republic",108
+1992,"CHL","Chile",3051
+1992,"CHN","China",304
+1992,"CIV","Cote d'Ivoire",449
+1992,"CMR","Cameroon",289
+1992,"COD","Democratic Republic of the Congo",511
+1992,"COG","Congo",459
+1992,"COL","Colombia",5
+1992,"COM","Comoros",40
+1992,"CRI","Costa Rica",50
+1992,"CUB","Cuba",409
+1992,"CZE","Czech Republic",0
+1992,"DJI","Djibouti",66
+1992,"DMA","Dominica",12
+1992,"DOM","Dominican Republic",1395
+1992,"DZA","Algeria",2
+1992,"ECU","Ecuador",39
+1992,"EGY","Egypt",5
+1992,"ERI","Eritrea",204
+1992,"EST","Estonia",0
+1992,"ETH","Ethiopia",6829
+1992,"FJI","Fiji",20
+1992,"FSM","Federated States of Micronesia",4586
+1992,"GAB","Gabon",1855
+1992,"GEO","Georgia",0
+1992,"GHA","Ghana",6377
+1992,"GIN","Guinea",198
+1992,"GMB","The Gambia",67
+1992,"GNB","Guinea-Bissau",382
+1992,"GNQ","Equatorial Guinea",4
+1992,"GRD","Grenada",1
+1992,"GTM","Guatemala",462
+1992,"GUY","Guyana",140
+1992,"HND","Honduras",1093
+1992,"HRV","Croatia",0
+1992,"HTI","Haiti",8403
+1992,"IDN","Indonesia",222
+1992,"IND","India",11701
+1992,"IRN","Iran",0
+1992,"IRQ","Iraq",0
+1992,"JAM","Jamaica",2532
+1992,"JOR","Jordan",0
+1992,"KAZ","Kazakhstan",0
+1992,"KEN","Kenya",6629
+1992,"KGZ","Kyrgyzstan",0
+1992,"KHM","Cambodia",161
+1992,"KIR","Kiribati",61
+1992,"KOR","South Korea",0
+1992,"KSV","Kosovo",3
+1992,"LAO","Laos",1548
+1992,"LBN","Lebanon",0
+1992,"LBR","Liberia",88
+1992,"LBY","Libya",0
+1992,"LCA","Saint Lucia",3
+1992,"LKA","Sri Lanka",0
+1992,"LSO","Lesotho",1141
+1992,"LTU","Lithuania",0
+1992,"LVA","Latvia",0
+1992,"MAR","Morocco",8
+1992,"MDA","Moldova",0
+1992,"MDG","Madagascar",129
+1992,"MDV","Maldives",0
+1992,"MEX","Mexico",548
+1992,"MHL","Marshall Islands",66
+1992,"MKD","Macedonia",0
+1992,"MLI","Mali",320
+1992,"MMR","Myanmar",0
+1992,"MNE","Montenegro",0
+1992,"MNG","Mongolia",5
+1992,"MOZ","Mozambique",3220
+1992,"MRT","Mauritania",13
+1992,"MSR","Montserrat",0
+1992,"MUS","Mauritius",11
+1992,"MWI","Malawi",23665
+1992,"MYS","Malaysia",3
+1992,"NAM","Namibia",752
+1992,"NER","Niger",160
+1992,"NGA","Nigeria",1953
+1992,"NIC","Nicaragua",971
+1992,"NIU","Niue",52
+1992,"NPL","Nepal",0
+1992,"NRU","Nauru",41
+1992,"OMN","Oman",0
+1992,"PAK","Pakistan",78
+1992,"PAN","Panama",32
+1992,"PER","Peru",508
+1992,"PHL","Philippines",2369
+1992,"PLW","Palau",52
+1992,"PNG","Papua New Guinea",11700
+1992,"POL","Poland",0
+1992,"PRK","North Korea",0
+1992,"PRY","Paraguay",25
+1992,"PSE","Palestine",0
+1992,"QZA","Unallocated/Unspecified",406135
+1992,"ROU","Romania",0
+1992,"RUS","Russia",0
+1992,"RWA","Rwanda",966
+1992,"SDN","Sudan",279
+1992,"SEN","Senegal",365
+1992,"SHN","Saint Helena",0
+1992,"SLB","Solomon Islands",98
+1992,"SLE","Sierra Leone",159
+1992,"SLV","El Salvador",191
+1992,"SOM","Somalia",66
+1992,"SRB","Serbia",0
+1992,"SSD","South Sudan",864
+1992,"STP","Sao Tome and Principe",5
+1992,"SUR","Suriname",45
+1992,"SVN","Slovenia",0
+1992,"SWZ","Swaziland",305
+1992,"SYC","Seychelles",0
+1992,"SYR","Syria",0
+1992,"TCD","Chad",170
+1992,"TGO","Togo",107
+1992,"THA","Thailand",3672
+1992,"TJK","Tajikistan",0
+1992,"TKL","Tokelau",3
+1992,"TKM","Turkmenistan",0
+1992,"TLS","Timor-Leste",5
+1992,"TON","Tonga",56
+1992,"TTO","Trinidad and Tobago",0
+1992,"TUN","Tunisia",0
+1992,"TUR","Turkey",0
+1992,"TUV","Tuvalu",53
+1992,"TZA","Tanzania",23290
+1992,"UGA","Uganda",14681
+1992,"UKR","Ukraine",0
+1992,"URY","Uruguay",0
+1992,"UZB","Uzbekistan",0
+1992,"VCT","Saint Vincent and the Grenadines",1
+1992,"VEN","Venezuela",1
+1992,"VNM","Vietnam",226
+1992,"VUT","Vanuatu",109
+1992,"WLD","Global",22059
+1992,"WLF","Wallis and Futuna Islands",0
+1992,"WSM","Samoa",63
+1992,"YEM","Yemen",0
+1992,"ZAF","South Africa",3331
+1992,"ZMB","Zambia",25526
+1992,"ZWE","Zimbabwe",8474
+1993,"AFG","Afghanistan",0
+1993,"AGO","Angola",47
+1993,"AIA","Anguilla",0
+1993,"ALB","Albania",0
+1993,"ANT","Netherlands Antilles",0
+1993,"ARG","Argentina",105
+1993,"ARM","Armenia",0
+1993,"ATG","Antigua and Barbuda",0
+1993,"AZE","Azerbaijan",0
+1993,"BDI","Burundi",4096
+1993,"BEN","Benin",33
+1993,"BFA","Burkina Faso",45
+1993,"BGD","Bangladesh",1
+1993,"BGR","Bulgaria",0
+1993,"BIH","Bosnia and Herzegovina",5
+1993,"BLR","Belarus",0
+1993,"BLZ","Belize",4
+1993,"BOL","Bolivia",1772
+1993,"BRA","Brazil",568
+1993,"BRB","Barbados",0
+1993,"BTN","Bhutan",0
+1993,"BWA","Botswana",214
+1993,"CAF","Central African Republic",136
+1993,"CHL","Chile",334
+1993,"CHN","China",670
+1993,"CIV","Cote d'Ivoire",13169
+1993,"CMR","Cameroon",32
+1993,"COD","Democratic Republic of the Congo",659
+1993,"COG","Congo",16
+1993,"COL","Colombia",147
+1993,"COM","Comoros",0
+1993,"CPV","Cape Verde",0
+1993,"CRI","Costa Rica",5
+1993,"CUB","Cuba",41
+1993,"CZE","Czech Republic",0
+1993,"DJI","Djibouti",5
+1993,"DMA","Dominica",1
+1993,"DOM","Dominican Republic",713
+1993,"DZA","Algeria",0
+1993,"ECU","Ecuador",82
+1993,"EGY","Egypt",96
+1993,"ERI","Eritrea",24
+1993,"EST","Estonia",0
+1993,"ETH","Ethiopia",4727
+1993,"FJI","Fiji",3
+1993,"FSM","Federated States of Micronesia",39
+1993,"GAB","Gabon",1
+1993,"GEO","Georgia",0
+1993,"GHA","Ghana",14885
+1993,"GIN","Guinea",19
+1993,"GMB","The Gambia",5
+1993,"GNB","Guinea-Bissau",23
+1993,"GNQ","Equatorial Guinea",0
+1993,"GRD","Grenada",1
+1993,"GTM","Guatemala",48
+1993,"GUY","Guyana",340
+1993,"HND","Honduras",101
+1993,"HRV","Croatia",5
+1993,"HTI","Haiti",5609
+1993,"HUN","Hungary",0
+1993,"IDN","Indonesia",640
+1993,"IND","India",6258
+1993,"IRN","Iran",0
+1993,"IRQ","Iraq",0
+1993,"JAM","Jamaica",1824
+1993,"JOR","Jordan",0
+1993,"KAZ","Kazakhstan",0
+1993,"KEN","Kenya",1304
+1993,"KGZ","Kyrgyzstan",0
+1993,"KHM","Cambodia",280
+1993,"KIR","Kiribati",8
+1993,"KNA","Saint Kitts and Nevis",0
+1993,"KOR","South Korea",0
+1993,"KSV","Kosovo",2
+1993,"LAO","Laos",355
+1993,"LBN","Lebanon",0
+1993,"LBR","Liberia",9
+1993,"LBY","Libya",0
+1993,"LCA","Saint Lucia",2
+1993,"LKA","Sri Lanka",0
+1993,"LSO","Lesotho",230
+1993,"LTU","Lithuania",0
+1993,"LVA","Latvia",0
+1993,"MAR","Morocco",0
+1993,"MDA","Moldova",0
+1993,"MDG","Madagascar",12
+1993,"MDV","Maldives",0
+1993,"MEX","Mexico",44
+1993,"MHL","Marshall Islands",9
+1993,"MKD","Macedonia",5
+1993,"MLI","Mali",37
+1993,"MMR","Myanmar",257
+1993,"MNE","Montenegro",5
+1993,"MNG","Mongolia",9
+1993,"MNP","Northern Mariana Islands",0
+1993,"MOZ","Mozambique",226
+1993,"MRT","Mauritania",0
+1993,"MSR","Montserrat",0
+1993,"MUS","Mauritius",0
+1993,"MWI","Malawi",9590
+1993,"MYS","Malaysia",5
+1993,"NAM","Namibia",66
+1993,"NER","Niger",1538
+1993,"NGA","Nigeria",257
+1993,"NIC","Nicaragua",107
+1993,"NIU","Niue",7
+1993,"NPL","Nepal",1
+1993,"NRU","Nauru",5
+1993,"OMN","Oman",0
+1993,"PAK","Pakistan",39
+1993,"PAN","Panama",3
+1993,"PER","Peru",152
+1993,"PHL","Philippines",5418
+1993,"PLW","Palau",7
+1993,"PNG","Papua New Guinea",2017
+1993,"POL","Poland",0
+1993,"PRK","North Korea",0
+1993,"PRY","Paraguay",39
+1993,"PSE","Palestine",0
+1993,"QZA","Unallocated/Unspecified",407633
+1993,"ROU","Romania",0
+1993,"RUS","Russia",0
+1993,"RWA","Rwanda",194
+1993,"SDN","Sudan",34
+1993,"SEN","Senegal",3047
+1993,"SHN","Saint Helena",0
+1993,"SLB","Solomon Islands",14
+1993,"SLE","Sierra Leone",137
+1993,"SLV","El Salvador",27
+1993,"SOM","Somalia",4
+1993,"SRB","Serbia",5
+1993,"SSD","South Sudan",109
+1993,"STP","Sao Tome and Principe",0
+1993,"SUR","Suriname",33
+1993,"SVK","Slovakia",0
+1993,"SVN","Slovenia",5
+1993,"SWZ","Swaziland",38
+1993,"SYC","Seychelles",0
+1993,"SYR","Syria",0
+1993,"TCD","Chad",17
+1993,"TGO","Togo",12
+1993,"THA","Thailand",4314
+1993,"TJK","Tajikistan",0
+1993,"TKL","Tokelau",0
+1993,"TKM","Turkmenistan",0
+1993,"TLS","Timor-Leste",9
+1993,"TON","Tonga",8
+1993,"TTO","Trinidad and Tobago",0
+1993,"TUN","Tunisia",0
+1993,"TUR","Turkey",0
+1993,"TUV","Tuvalu",7
+1993,"TZA","Tanzania",3212
+1993,"UGA","Uganda",3243
+1993,"UKR","Ukraine",0
+1993,"URY","Uruguay",0
+1993,"UZB","Uzbekistan",0
+1993,"VCT","Saint Vincent and the Grenadines",1
+1993,"VEN","Venezuela",0
+1993,"VNM","Vietnam",491
+1993,"VUT","Vanuatu",15
+1993,"WLD","Global",13949
+1993,"WLF","Wallis and Futuna Islands",0
+1993,"WSM","Samoa",0
+1993,"YEM","Yemen",0
+1993,"ZAF","South Africa",499
+1993,"ZMB","Zambia",18060
+1993,"ZWE","Zimbabwe",10341
+1994,"AFG","Afghanistan",0
+1994,"AGO","Angola",1923
+1994,"AIA","Anguilla",0
+1994,"ALB","Albania",1
+1994,"ARG","Argentina",193
+1994,"ARM","Armenia",0
+1994,"ATG","Antigua and Barbuda",0
+1994,"AZE","Azerbaijan",0
+1994,"BDI","Burundi",786
+1994,"BEN","Benin",874
+1994,"BFA","Burkina Faso",8105
+1994,"BGD","Bangladesh",473
+1994,"BIH","Bosnia and Herzegovina",1
+1994,"BLR","Belarus",1
+1994,"BLZ","Belize",3
+1994,"BOL","Bolivia",1412
+1994,"BRA","Brazil",42442
+1994,"BRB","Barbados",0
+1994,"BTN","Bhutan",0
+1994,"BWA","Botswana",3019
+1994,"CAF","Central African Republic",1219
+1994,"CHL","Chile",34
+1994,"CHN","China",534
+1994,"CIV","Cote d'Ivoire",595
+1994,"CMR","Cameroon",17241
+1994,"COD","Democratic Republic of the Congo",170
+1994,"COG","Congo",11494
+1994,"COL","Colombia",22
+1994,"COM","Comoros",473
+1994,"CPV","Cape Verde",1473
+1994,"CRI","Costa Rica",2
+1994,"CUB","Cuba",21
+1994,"DJI","Djibouti",196
+1994,"DMA","Dominica",0
+1994,"DOM","Dominican Republic",1626
+1994,"DZA","Algeria",0
+1994,"ECU","Ecuador",116
+1994,"EGY","Egypt",0
+1994,"ERI","Eritrea",1638
+1994,"ETH","Ethiopia",21322
+1994,"FJI","Fiji",0
+1994,"FSM","Federated States of Micronesia",0
+1994,"GAB","Gabon",54
+1994,"GEO","Georgia",0
+1994,"GHA","Ghana",10141
+1994,"GIN","Guinea",4059
+1994,"GMB","The Gambia",165
+1994,"GNB","Guinea-Bissau",756
+1994,"GNQ","Equatorial Guinea",9
+1994,"GRD","Grenada",0
+1994,"GTM","Guatemala",34
+1994,"GUY","Guyana",700
+1994,"HND","Honduras",2244
+1994,"HRV","Croatia",0
+1994,"HTI","Haiti",2081
+1994,"HUN","Hungary",0
+1994,"IDN","Indonesia",12439
+1994,"IND","India",6739
+1994,"IRN","Iran",0
+1994,"IRQ","Iraq",0
+1994,"JAM","Jamaica",696
+1994,"JOR","Jordan",0
+1994,"KAZ","Kazakhstan",0
+1994,"KEN","Kenya",6111
+1994,"KGZ","Kyrgyzstan",0
+1994,"KHM","Cambodia",157
+1994,"KIR","Kiribati",19
+1994,"KOR","South Korea",0
+1994,"KSV","Kosovo",54
+1994,"LAO","Laos",192
+1994,"LBN","Lebanon",0
+1994,"LBR","Liberia",145
+1994,"LBY","Libya",0
+1994,"LCA","Saint Lucia",3023
+1994,"LKA","Sri Lanka",385
+1994,"LSO","Lesotho",539
+1994,"LTU","Lithuania",0
+1994,"LVA","Latvia",0
+1994,"MAR","Morocco",96
+1994,"MDA","Moldova",3
+1994,"MDG","Madagascar",317
+1994,"MDV","Maldives",0
+1994,"MEX","Mexico",139
+1994,"MHL","Marshall Islands",20
+1994,"MKD","Macedonia",2
+1994,"MLI","Mali",9147
+1994,"MLT","Malta",0
+1994,"MMR","Myanmar",17
+1994,"MNE","Montenegro",0
+1994,"MNG","Mongolia",4
+1994,"MOZ","Mozambique",5549
+1994,"MRT","Mauritania",190
+1994,"MSR","Montserrat",0
+1994,"MUS","Mauritius",213
+1994,"MWI","Malawi",10079
+1994,"MYS","Malaysia",2
+1994,"NAM","Namibia",754
+1994,"NER","Niger",6060
+1994,"NGA","Nigeria",3615
+1994,"NIC","Nicaragua",266
+1994,"NIU","Niue",16
+1994,"NPL","Nepal",13
+1994,"NRU","Nauru",13
+1994,"OMN","Oman",0
+1994,"PAK","Pakistan",151
+1994,"PAN","Panama",3
+1994,"PER","Peru",303
+1994,"PHL","Philippines",9694
+1994,"PLW","Palau",16
+1994,"PNG","Papua New Guinea",7242
+1994,"POL","Poland",0
+1994,"PRK","North Korea",0
+1994,"PRY","Paraguay",156
+1994,"PSE","Palestine",0
+1994,"QZA","Unallocated/Unspecified",429365
+1994,"ROU","Romania",0
+1994,"RUS","Russia",0
+1994,"RWA","Rwanda",1347
+1994,"SDN","Sudan",735
+1994,"SEN","Senegal",11109
+1994,"SHN","Saint Helena",0
+1994,"SLB","Solomon Islands",0
+1994,"SLE","Sierra Leone",350
+1994,"SLV","El Salvador",20
+1994,"SOM","Somalia",60
+1994,"SRB","Serbia",2
+1994,"SSD","South Sudan",53
+1994,"STP","Sao Tome and Principe",15
+1994,"SUR","Suriname",17
+1994,"SVN","Slovenia",0
+1994,"SWZ","Swaziland",578
+1994,"SYC","Seychelles",65
+1994,"SYR","Syria",0
+1994,"TCA","Turks and Caicos Islands",0
+1994,"TCD","Chad",3674
+1994,"TGO","Togo",724
+1994,"THA","Thailand",2621
+1994,"TJK","Tajikistan",0
+1994,"TKL","Tokelau",1
+1994,"TKM","Turkmenistan",0
+1994,"TLS","Timor-Leste",3
+1994,"TON","Tonga",0
+1994,"TTO","Trinidad and Tobago",0
+1994,"TUN","Tunisia",0
+1994,"TUR","Turkey",0
+1994,"TUV","Tuvalu",16
+1994,"TZA","Tanzania",23325
+1994,"UGA","Uganda",22087
+1994,"UKR","Ukraine",12
+1994,"URY","Uruguay",1
+1994,"UZB","Uzbekistan",0
+1994,"VCT","Saint Vincent and the Grenadines",1
+1994,"VEN","Venezuela",4
+1994,"VNM","Vietnam",361
+1994,"VUT","Vanuatu",0
+1994,"WLD","Global",113933
+1994,"WLF","Wallis and Futuna Islands",0
+1994,"WSM","Samoa",0
+1994,"YEM","Yemen",4
+1994,"ZAF","South Africa",24810
+1994,"ZMB","Zambia",13817
+1994,"ZWE","Zimbabwe",25626
+1995,"AFG","Afghanistan",0
+1995,"AGO","Angola",1041
+1995,"AIA","Anguilla",0
+1995,"ALB","Albania",0
+1995,"ARG","Argentina",106
+1995,"ARM","Armenia",0
+1995,"ATG","Antigua and Barbuda",0
+1995,"AZE","Azerbaijan",0
+1995,"BDI","Burundi",413
+1995,"BEN","Benin",5630
+1995,"BFA","Burkina Faso",11525
+1995,"BGD","Bangladesh",2326
+1995,"BGR","Bulgaria",0
+1995,"BIH","Bosnia and Herzegovina",0
+1995,"BLR","Belarus",0
+1995,"BLZ","Belize",3
+1995,"BOL","Bolivia",0
+1995,"BRA","Brazil",24443
+1995,"BRB","Barbados",0
+1995,"BTN","Bhutan",0
+1995,"BWA","Botswana",3820
+1995,"CAF","Central African Republic",2503
+1995,"CHL","Chile",321
+1995,"CHN","China",36
+1995,"CIV","Cote d'Ivoire",20564
+1995,"CMR","Cameroon",378
+1995,"COD","Democratic Republic of the Congo",135
+1995,"COG","Congo",83
+1995,"COK","Cook Islands",0
+1995,"COL","Colombia",0
+1995,"COM","Comoros",504
+1995,"CPV","Cape Verde",0
+1995,"CRI","Costa Rica",3
+1995,"CUB","Cuba",27
+1995,"CZE","Czech Republic",2
+1995,"DJI","Djibouti",6422
+1995,"DMA","Dominica",0
+1995,"DOM","Dominican Republic",82
+1995,"DZA","Algeria",0
+1995,"ECU","Ecuador",0
+1995,"EGY","Egypt",45
+1995,"ERI","Eritrea",481
+1995,"ETH","Ethiopia",8289
+1995,"FJI","Fiji",0
+1995,"FSM","Federated States of Micronesia",0
+1995,"GAB","Gabon",6
+1995,"GEO","Georgia",0
+1995,"GHA","Ghana",1665
+1995,"GIN","Guinea",305
+1995,"GMB","The Gambia",21
+1995,"GNB","Guinea-Bissau",2572
+1995,"GNQ","Equatorial Guinea",1
+1995,"GRD","Grenada",0
+1995,"GTM","Guatemala",32
+1995,"GUY","Guyana",4
+1995,"HND","Honduras",468
+1995,"HRV","Croatia",0
+1995,"HTI","Haiti",2400
+1995,"HUN","Hungary",0
+1995,"IDN","Indonesia",34120
+1995,"IND","India",8102
+1995,"IRN","Iran",0
+1995,"IRQ","Iraq",0
+1995,"JAM","Jamaica",47
+1995,"JOR","Jordan",0
+1995,"KAZ","Kazakhstan",0
+1995,"KEN","Kenya",10048
+1995,"KGZ","Kyrgyzstan",1
+1995,"KHM","Cambodia",14774
+1995,"KIR","Kiribati",0
+1995,"KNA","Saint Kitts and Nevis",0
+1995,"KSV","Kosovo",6
+1995,"LAO","Laos",171
+1995,"LBN","Lebanon",0
+1995,"LBR","Liberia",120
+1995,"LBY","Libya",0
+1995,"LCA","Saint Lucia",3
+1995,"LKA","Sri Lanka",142
+1995,"LSO","Lesotho",487
+1995,"LTU","Lithuania",0
+1995,"LVA","Latvia",0
+1995,"MAR","Morocco",213
+1995,"MDA","Moldova",0
+1995,"MDG","Madagascar",169
+1995,"MDV","Maldives",0
+1995,"MEX","Mexico",23
+1995,"MHL","Marshall Islands",0
+1995,"MKD","Macedonia",0
+1995,"MLI","Mali",1258
+1995,"MMR","Myanmar",7
+1995,"MNE","Montenegro",0
+1995,"MNG","Mongolia",0
+1995,"MOZ","Mozambique",17298
+1995,"MRT","Mauritania",4
+1995,"MSR","Montserrat",0
+1995,"MUS","Mauritius",1
+1995,"MWI","Malawi",10058
+1995,"MYS","Malaysia",0
+1995,"NAM","Namibia",4665
+1995,"NER","Niger",3465
+1995,"NGA","Nigeria",6287
+1995,"NIC","Nicaragua",535
+1995,"NIU","Niue",0
+1995,"NPL","Nepal",1969
+1995,"NRU","Nauru",0
+1995,"OMN","Oman",0
+1995,"PAK","Pakistan",199
+1995,"PAN","Panama",2
+1995,"PER","Peru",128
+1995,"PHL","Philippines",216
+1995,"PLW","Palau",0
+1995,"PNG","Papua New Guinea",11
+1995,"POL","Poland",0
+1995,"PRK","North Korea",0
+1995,"PRY","Paraguay",0
+1995,"PSE","Palestine",0
+1995,"QZA","Unallocated/Unspecified",411576
+1995,"ROU","Romania",0
+1995,"RUS","Russia",0
+1995,"RWA","Rwanda",1055
+1995,"SDN","Sudan",625
+1995,"SEN","Senegal",577
+1995,"SHN","Saint Helena",0
+1995,"SLB","Solomon Islands",0
+1995,"SLE","Sierra Leone",194
+1995,"SLV","El Salvador",25
+1995,"SOM","Somalia",36
+1995,"SRB","Serbia",0
+1995,"SSD","South Sudan",796
+1995,"STP","Sao Tome and Principe",1
+1995,"SUR","Suriname",0
+1995,"SVN","Slovenia",0
+1995,"SWZ","Swaziland",2139
+1995,"SYC","Seychelles",0
+1995,"SYR","Syria",0
+1995,"TCA","Turks and Caicos Islands",0
+1995,"TCD","Chad",8607
+1995,"TGO","Togo",302
+1995,"THA","Thailand",1137
+1995,"TJK","Tajikistan",0
+1995,"TKL","Tokelau",0
+1995,"TKM","Turkmenistan",0
+1995,"TLS","Timor-Leste",0
+1995,"TON","Tonga",0
+1995,"TTO","Trinidad and Tobago",0
+1995,"TUN","Tunisia",0
+1995,"TUR","Turkey",0
+1995,"TUV","Tuvalu",0
+1995,"TZA","Tanzania",19012
+1995,"UGA","Uganda",10371
+1995,"UKR","Ukraine",0
+1995,"URY","Uruguay",0
+1995,"UZB","Uzbekistan",1
+1995,"VCT","Saint Vincent and the Grenadines",0
+1995,"VEN","Venezuela",0
+1995,"VNM","Vietnam",135
+1995,"VUT","Vanuatu",0
+1995,"WLD","Global",110973
+1995,"WLF","Wallis and Futuna Islands",0
+1995,"WSM","Samoa",0
+1995,"YEM","Yemen",0
+1995,"ZAF","South Africa",13118
+1995,"ZMB","Zambia",8168
+1995,"ZWE","Zimbabwe",27657
+1996,"AFG","Afghanistan",2
+1996,"AGO","Angola",1356
+1996,"ALB","Albania",0
+1996,"ARG","Argentina",107
+1996,"ARM","Armenia",2
+1996,"ATG","Antigua and Barbuda",8
+1996,"AZE","Azerbaijan",0
+1996,"BDI","Burundi",195
+1996,"BEN","Benin",580
+1996,"BFA","Burkina Faso",1274
+1996,"BGD","Bangladesh",270
+1996,"BGR","Bulgaria",0
+1996,"BIH","Bosnia and Herzegovina",0
+1996,"BLR","Belarus",0
+1996,"BLZ","Belize",73
+1996,"BOL","Bolivia",1424
+1996,"BRA","Brazil",60400
+1996,"BRB","Barbados",0
+1996,"BTN","Bhutan",0
+1996,"BWA","Botswana",393
+1996,"CAF","Central African Republic",84
+1996,"CHL","Chile",55
+1996,"CHN","China",44
+1996,"CIV","Cote d'Ivoire",1566
+1996,"CMR","Cameroon",196
+1996,"COD","Democratic Republic of the Congo",167
+1996,"COG","Congo",22
+1996,"COL","Colombia",3
+1996,"COM","Comoros",878
+1996,"CRI","Costa Rica",104
+1996,"CUB","Cuba",856
+1996,"DJI","Djibouti",46
+1996,"DMA","Dominica",25
+1996,"DOM","Dominican Republic",2583
+1996,"DZA","Algeria",3
+1996,"ECU","Ecuador",1157
+1996,"EGY","Egypt",54
+1996,"ERI","Eritrea",284
+1996,"EST","Estonia",0
+1996,"ETH","Ethiopia",4176
+1996,"FJI","Fiji",0
+1996,"FSM","Federated States of Micronesia",0
+1996,"GAB","Gabon",2912
+1996,"GEO","Georgia",4
+1996,"GHA","Ghana",6491
+1996,"GIN","Guinea",158
+1996,"GMB","The Gambia",22
+1996,"GNB","Guinea-Bissau",160
+1996,"GNQ","Equatorial Guinea",1
+1996,"GRD","Grenada",36
+1996,"GTM","Guatemala",971
+1996,"GUY","Guyana",89
+1996,"HND","Honduras",2724
+1996,"HRV","Croatia",0
+1996,"HTI","Haiti",8054
+1996,"HUN","Hungary",0
+1996,"IDN","Indonesia",4869
+1996,"IND","India",10324
+1996,"IRN","Iran",0
+1996,"IRQ","Iraq",0
+1996,"JAM","Jamaica",2691
+1996,"JOR","Jordan",0
+1996,"KAZ","Kazakhstan",3
+1996,"KEN","Kenya",43949
+1996,"KGZ","Kyrgyzstan",4
+1996,"KHM","Cambodia",475
+1996,"KIR","Kiribati",0
+1996,"KSV","Kosovo",1
+1996,"LAO","Laos",377
+1996,"LBN","Lebanon",0
+1996,"LBR","Liberia",55
+1996,"LBY","Libya",4
+1996,"LCA","Saint Lucia",113
+1996,"LKA","Sri Lanka",125
+1996,"LSO","Lesotho",217
+1996,"LTU","Lithuania",0
+1996,"LVA","Latvia",0
+1996,"MAR","Morocco",9
+1996,"MDA","Moldova",1
+1996,"MDG","Madagascar",88
+1996,"MDV","Maldives",0
+1996,"MEX","Mexico",1007
+1996,"MHL","Marshall Islands",0
+1996,"MKD","Macedonia",1
+1996,"MLI","Mali",669
+1996,"MMR","Myanmar",381
+1996,"MNE","Montenegro",0
+1996,"MNG","Mongolia",0
+1996,"MOZ","Mozambique",3902
+1996,"MRT","Mauritania",3
+1996,"MSR","Montserrat",9
+1996,"MUS","Mauritius",2
+1996,"MWI","Malawi",21471
+1996,"MYS","Malaysia",0
+1996,"NAM","Namibia",671
+1996,"NER","Niger",118
+1996,"NGA","Nigeria",2261
+1996,"NIC","Nicaragua",2474
+1996,"NIU","Niue",0
+1996,"NPL","Nepal",107
+1996,"NRU","Nauru",0
+1996,"OMN","Oman",0
+1996,"PAK","Pakistan",194
+1996,"PAN","Panama",66
+1996,"PER","Peru",902
+1996,"PHL","Philippines",2487
+1996,"PLW","Palau",0
+1996,"PNG","Papua New Guinea",0
+1996,"POL","Poland",0
+1996,"PRK","North Korea",0
+1996,"PRY","Paraguay",20
+1996,"PSE","Palestine",217
+1996,"QZA","Unallocated/Unspecified",362364
+1996,"ROU","Romania",0
+1996,"RUS","Russia",0
+1996,"RWA","Rwanda",496
+1996,"SDN","Sudan",349
+1996,"SEN","Senegal",3851
+1996,"SHN","Saint Helena",0
+1996,"SLB","Solomon Islands",0
+1996,"SLE","Sierra Leone",204
+1996,"SLV","El Salvador",438
+1996,"SOM","Somalia",20
+1996,"SRB","Serbia",1
+1996,"SSD","South Sudan",508
+1996,"STP","Sao Tome and Principe",1
+1996,"SUR","Suriname",2
+1996,"SVN","Slovenia",0
+1996,"SWZ","Swaziland",517
+1996,"SYC","Seychelles",0
+1996,"SYR","Syria",0
+1996,"TCD","Chad",1814
+1996,"TGO","Togo",48
+1996,"THA","Thailand",2069
+1996,"TJK","Tajikistan",3
+1996,"TKL","Tokelau",0
+1996,"TKM","Turkmenistan",0
+1996,"TLS","Timor-Leste",0
+1996,"TON","Tonga",0
+1996,"TTO","Trinidad and Tobago",0
+1996,"TUN","Tunisia",1
+1996,"TUR","Turkey",0
+1996,"TUV","Tuvalu",0
+1996,"TZA","Tanzania",4680
+1996,"UGA","Uganda",10242
+1996,"UKR","Ukraine",5
+1996,"URY","Uruguay",0
+1996,"UZB","Uzbekistan",4
+1996,"VCT","Saint Vincent and the Grenadines",42
+1996,"VEN","Venezuela",1
+1996,"VNM","Vietnam",142
+1996,"VUT","Vanuatu",0
+1996,"WLD","Global",179963
+1996,"WLF","Wallis and Futuna Islands",0
+1996,"WSM","Samoa",0
+1996,"YEM","Yemen",0
+1996,"ZAF","South Africa",3344
+1996,"ZMB","Zambia",5071
+1996,"ZWE","Zimbabwe",22653
+1997,"AFG","Afghanistan",30
+1997,"AGO","Angola",1224
+1997,"ALB","Albania",0
+1997,"ARG","Argentina",1394
+1997,"ARM","Armenia",34
+1997,"ATG","Antigua and Barbuda",4
+1997,"AZE","Azerbaijan",22
+1997,"BDI","Burundi",292
+1997,"BEN","Benin",317
+1997,"BFA","Burkina Faso",2475
+1997,"BGD","Bangladesh",827
+1997,"BGR","Bulgaria",0
+1997,"BIH","Bosnia and Herzegovina",0
+1997,"BLR","Belarus",1
+1997,"BLZ","Belize",63
+1997,"BOL","Bolivia",163
+1997,"BRA","Brazil",35220
+1997,"BRB","Barbados",0
+1997,"BTN","Bhutan",3
+1997,"BWA","Botswana",1262
+1997,"CAF","Central African Republic",150
+1997,"CHL","Chile",96
+1997,"CHN","China",1735
+1997,"CIV","Cote d'Ivoire",4461
+1997,"CMR","Cameroon",388
+1997,"COD","Democratic Republic of the Congo",1994
+1997,"COG","Congo",85
+1997,"COL","Colombia",57
+1997,"COM","Comoros",698
+1997,"CPV","Cape Verde",0
+1997,"CRI","Costa Rica",88
+1997,"CUB","Cuba",776
+1997,"DJI","Djibouti",99
+1997,"DMA","Dominica",23
+1997,"DOM","Dominican Republic",4616
+1997,"DZA","Algeria",0
+1997,"ECU","Ecuador",135
+1997,"EGY","Egypt",166
+1997,"ERI","Eritrea",768
+1997,"EST","Estonia",0
+1997,"ETH","Ethiopia",3904
+1997,"FJI","Fiji",1
+1997,"FSM","Federated States of Micronesia",0
+1997,"GAB","Gabon",29
+1997,"GEO","Georgia",82
+1997,"GHA","Ghana",15567
+1997,"GIN","Guinea",10923
+1997,"GMB","The Gambia",85
+1997,"GNB","Guinea-Bissau",122
+1997,"GNQ","Equatorial Guinea",5
+1997,"GRD","Grenada",27
+1997,"GTM","Guatemala",930
+1997,"GUY","Guyana",734
+1997,"HND","Honduras",2364
+1997,"HRV","Croatia",0
+1997,"HTI","Haiti",7427
+1997,"HUN","Hungary",0
+1997,"IDN","Indonesia",13625
+1997,"IND","India",14614
+1997,"IRN","Iran",1
+1997,"IRQ","Iraq",0
+1997,"JAM","Jamaica",4694
+1997,"JOR","Jordan",6
+1997,"KAZ","Kazakhstan",57
+1997,"KEN","Kenya",25854
+1997,"KGZ","Kyrgyzstan",109
+1997,"KHM","Cambodia",1320
+1997,"KIR","Kiribati",2
+1997,"KSV","Kosovo",0
+1997,"LAO","Laos",135
+1997,"LBN","Lebanon",2
+1997,"LBR","Liberia",69
+1997,"LBY","Libya",0
+1997,"LCA","Saint Lucia",84
+1997,"LKA","Sri Lanka",198
+1997,"LSO","Lesotho",608
+1997,"LTU","Lithuania",0
+1997,"LVA","Latvia",0
+1997,"MAR","Morocco",0
+1997,"MDA","Moldova",1
+1997,"MDG","Madagascar",158
+1997,"MDV","Maldives",1
+1997,"MEX","Mexico",866
+1997,"MHL","Marshall Islands",3
+1997,"MKD","Macedonia",0
+1997,"MLI","Mali",2715
+1997,"MMR","Myanmar",531
+1997,"MNE","Montenegro",0
+1997,"MNG","Mongolia",19
+1997,"MOZ","Mozambique",2271
+1997,"MRT","Mauritania",16
+1997,"MSR","Montserrat",5
+1997,"MUS","Mauritius",9
+1997,"MWI","Malawi",21189
+1997,"MYS","Malaysia",6
+1997,"NAM","Namibia",1718
+1997,"NER","Niger",199
+1997,"NGA","Nigeria",2969
+1997,"NIC","Nicaragua",1858
+1997,"NIU","Niue",2
+1997,"NPL","Nepal",544
+1997,"NRU","Nauru",2
+1997,"OMN","Oman",0
+1997,"PAK","Pakistan",203
+1997,"PAN","Panama",57
+1997,"PER","Peru",796
+1997,"PHL","Philippines",4994
+1997,"PLW","Palau",2
+1997,"PNG","Papua New Guinea",389
+1997,"POL","Poland",0
+1997,"PRK","North Korea",0
+1997,"PRY","Paraguay",151
+1997,"PSE","Palestine",138
+1997,"QZA","Unallocated/Unspecified",369624
+1997,"ROU","Romania",14
+1997,"RUS","Russia",0
+1997,"RWA","Rwanda",7080
+1997,"SDN","Sudan",437
+1997,"SEN","Senegal",2980
+1997,"SHN","Saint Helena",0
+1997,"SLB","Solomon Islands",0
+1997,"SLE","Sierra Leone",175
+1997,"SLV","El Salvador",393
+1997,"SOM","Somalia",29
+1997,"SRB","Serbia",0
+1997,"SSD","South Sudan",289
+1997,"STP","Sao Tome and Principe",8
+1997,"SUR","Suriname",231
+1997,"SWZ","Swaziland",371
+1997,"SYC","Seychelles",0
+1997,"SYR","Syria",3
+1997,"TCD","Chad",5102
+1997,"TGO","Togo",71
+1997,"THA","Thailand",835
+1997,"TJK","Tajikistan",53
+1997,"TKL","Tokelau",0
+1997,"TKM","Turkmenistan",3
+1997,"TLS","Timor-Leste",14
+1997,"TON","Tonga",2
+1997,"TTO","Trinidad and Tobago",0
+1997,"TUN","Tunisia",0
+1997,"TUR","Turkey",0
+1997,"TUV","Tuvalu",2
+1997,"TZA","Tanzania",14835
+1997,"UGA","Uganda",11726
+1997,"UKR","Ukraine",6
+1997,"URY","Uruguay",0
+1997,"UZB","Uzbekistan",98
+1997,"VCT","Saint Vincent and the Grenadines",32
+1997,"VEN","Venezuela",23
+1997,"VNM","Vietnam",985
+1997,"VUT","Vanuatu",4
+1997,"WLD","Global",78477
+1997,"WLF","Wallis and Futuna Islands",0
+1997,"WSM","Samoa",0
+1997,"YEM","Yemen",22
+1997,"ZAF","South Africa",5125
+1997,"ZMB","Zambia",9702
+1997,"ZWE","Zimbabwe",27109
+1998,"AFG","Afghanistan",41
+1998,"AGO","Angola",4212
+1998,"AIA","Anguilla",0
+1998,"ALB","Albania",1
+1998,"ARG","Argentina",2455
+1998,"ARM","Armenia",47
+1998,"ATG","Antigua and Barbuda",5
+1998,"AZE","Azerbaijan",27
+1998,"BDI","Burundi",299
+1998,"BEN","Benin",290
+1998,"BFA","Burkina Faso",11672
+1998,"BGD","Bangladesh",1740
+1998,"BGR","Bulgaria",0
+1998,"BHR","Bahrain",0
+1998,"BIH","Bosnia and Herzegovina",2
+1998,"BLR","Belarus",20
+1998,"BLZ","Belize",49
+1998,"BOL","Bolivia",410
+1998,"BRA","Brazil",22672
+1998,"BRB","Barbados",0
+1998,"BTN","Bhutan",4
+1998,"BWA","Botswana",947
+1998,"CAF","Central African Republic",148
+1998,"CHL","Chile",15
+1998,"CHN","China",19936
+1998,"CIV","Cote d'Ivoire",2430
+1998,"CMR","Cameroon",400
+1998,"COD","Democratic Republic of the Congo",235
+1998,"COG","Congo",2739
+1998,"COK","Cook Islands",0
+1998,"COL","Colombia",10
+1998,"COM","Comoros",357
+1998,"CPV","Cape Verde",0
+1998,"CRI","Costa Rica",3027
+1998,"CUB","Cuba",581
+1998,"CZE","Czech Republic",0
+1998,"DJI","Djibouti",98
+1998,"DMA","Dominica",16
+1998,"DOM","Dominican Republic",4292
+1998,"DZA","Algeria",14
+1998,"ECU","Ecuador",51
+1998,"EGY","Egypt",619
+1998,"ERI","Eritrea",420
+1998,"EST","Estonia",0
+1998,"ETH","Ethiopia",3963
+1998,"FJI","Fiji",0
+1998,"FSM","Federated States of Micronesia",0
+1998,"GAB","Gabon",29
+1998,"GEO","Georgia",107
+1998,"GHA","Ghana",2177
+1998,"GIN","Guinea",279
+1998,"GMB","The Gambia",367
+1998,"GNB","Guinea-Bissau",451
+1998,"GNQ","Equatorial Guinea",2
+1998,"GRD","Grenada",23
+1998,"GTM","Guatemala",673
+1998,"GUY","Guyana",307
+1998,"HND","Honduras",2111
+1998,"HRV","Croatia",0
+1998,"HTI","Haiti",6367
+1998,"HUN","Hungary",0
+1998,"IDN","Indonesia",13919
+1998,"IND","India",24748
+1998,"IRN","Iran",5
+1998,"IRQ","Iraq",1
+1998,"JAM","Jamaica",3105
+1998,"JOR","Jordan",19
+1998,"KAZ","Kazakhstan",72
+1998,"KEN","Kenya",31599
+1998,"KGZ","Kyrgyzstan",145
+1998,"KHM","Cambodia",6144
+1998,"KIR","Kiribati",0
+1998,"KNA","Saint Kitts and Nevis",0
+1998,"KOR","South Korea",0
+1998,"KSV","Kosovo",39
+1998,"LAO","Laos",374
+1998,"LBN","Lebanon",12
+1998,"LBR","Liberia",78
+1998,"LBY","Libya",17
+1998,"LCA","Saint Lucia",74
+1998,"LKA","Sri Lanka",777
+1998,"LSO","Lesotho",561
+1998,"LTU","Lithuania",0
+1998,"LVA","Latvia",0
+1998,"MAR","Morocco",14
+1998,"MDA","Moldova",5
+1998,"MDG","Madagascar",161
+1998,"MDV","Maldives",1
+1998,"MEX","Mexico",1782
+1998,"MHL","Marshall Islands",0
+1998,"MKD","Macedonia",3
+1998,"MLI","Mali",428
+1998,"MMR","Myanmar",1056
+1998,"MNE","Montenegro",1
+1998,"MNG","Mongolia",22
+1998,"MOZ","Mozambique",6111
+1998,"MRT","Mauritania",16
+1998,"MSR","Montserrat",6
+1998,"MUS","Mauritius",10
+1998,"MWI","Malawi",19701
+1998,"MYS","Malaysia",11
+1998,"NAM","Namibia",553
+1998,"NER","Niger",278
+1998,"NGA","Nigeria",11759
+1998,"NIC","Nicaragua",2307
+1998,"NIU","Niue",0
+1998,"NPL","Nepal",767
+1998,"NRU","Nauru",0
+1998,"OMN","Oman",0
+1998,"PAK","Pakistan",625
+1998,"PAN","Panama",42
+1998,"PER","Peru",460
+1998,"PHL","Philippines",3307
+1998,"PLW","Palau",0
+1998,"PNG","Papua New Guinea",826
+1998,"POL","Poland",0
+1998,"PRK","North Korea",0
+1998,"PRY","Paraguay",68
+1998,"PSE","Palestine",154
+1998,"QZA","Unallocated/Unspecified",352890
+1998,"ROU","Romania",77
+1998,"RUS","Russia",34
+1998,"RWA","Rwanda",1513
+1998,"SAU","Saudi Arabia",0
+1998,"SDN","Sudan",361
+1998,"SEN","Senegal",1480
+1998,"SHN","Saint Helena",0
+1998,"SLB","Solomon Islands",0
+1998,"SLE","Sierra Leone",181
+1998,"SLV","El Salvador",274
+1998,"SOM","Somalia",40
+1998,"SRB","Serbia",4
+1998,"SSD","South Sudan",576
+1998,"STP","Sao Tome and Principe",15
+1998,"SUR","Suriname",9
+1998,"SVK","Slovakia",0
+1998,"SWZ","Swaziland",472
+1998,"SYC","Seychelles",0
+1998,"SYR","Syria",14
+1998,"TCD","Chad",1791
+1998,"TGO","Togo",84
+1998,"THA","Thailand",1520
+1998,"TJK","Tajikistan",67
+1998,"TKL","Tokelau",0
+1998,"TKM","Turkmenistan",6
+1998,"TLS","Timor-Leste",20
+1998,"TON","Tonga",0
+1998,"TTO","Trinidad and Tobago",22
+1998,"TUN","Tunisia",2
+1998,"TUR","Turkey",84
+1998,"TUV","Tuvalu",0
+1998,"TZA","Tanzania",16908
+1998,"UGA","Uganda",18510
+1998,"UKR","Ukraine",22
+1998,"URY","Uruguay",0
+1998,"UZB","Uzbekistan",131
+1998,"VCT","Saint Vincent and the Grenadines",26
+1998,"VEN","Venezuela",2
+1998,"VNM","Vietnam",1184
+1998,"VUT","Vanuatu",0
+1998,"WLD","Global",88480
+1998,"WLF","Wallis and Futuna Islands",0
+1998,"WSM","Samoa",27
+1998,"YEM","Yemen",70
+1998,"ZAF","South Africa",7329
+1998,"ZMB","Zambia",10565
+1998,"ZWE","Zimbabwe",36582
+1999,"AFG","Afghanistan",31
+1999,"AGO","Angola",3381
+1999,"AIA","Anguilla",0
+1999,"ALB","Albania",0
+1999,"ARG","Argentina",2366
+1999,"ARM","Armenia",38
+1999,"ATG","Antigua and Barbuda",3
+1999,"AZE","Azerbaijan",21
+1999,"BDI","Burundi",218
+1999,"BEN","Benin",1767
+1999,"BFA","Burkina Faso",3429
+1999,"BGD","Bangladesh",2971
+1999,"BGR","Bulgaria",0
+1999,"BHR","Bahrain",0
+1999,"BIH","Bosnia and Herzegovina",0
+1999,"BLR","Belarus",0
+1999,"BLZ","Belize",32
+1999,"BOL","Bolivia",1177
+1999,"BRA","Brazil",17890
+1999,"BRB","Barbados",0
+1999,"BTN","Bhutan",3
+1999,"BWA","Botswana",505
+1999,"CAF","Central African Republic",92
+1999,"CHL","Chile",1
+1999,"CHN","China",42447
+1999,"CIV","Cote d'Ivoire",1674
+1999,"CMR","Cameroon",285
+1999,"COD","Democratic Republic of the Congo",2897
+1999,"COG","Congo",57
+1999,"COK","Cook Islands",0
+1999,"COL","Colombia",36
+1999,"COM","Comoros",5
+1999,"CPV","Cape Verde",0
+1999,"CRI","Costa Rica",42
+1999,"CUB","Cuba",372
+1999,"CZE","Czech Republic",0
+1999,"DJI","Djibouti",53
+1999,"DMA","Dominica",9
+1999,"DOM","Dominican Republic",5275
+1999,"DZA","Algeria",10
+1999,"ECU","Ecuador",11
+1999,"EGY","Egypt",855
+1999,"ERI","Eritrea",772
+1999,"EST","Estonia",0
+1999,"ETH","Ethiopia",12612
+1999,"FJI","Fiji",1
+1999,"FSM","Federated States of Micronesia",3
+1999,"GAB","Gabon",18
+1999,"GEO","Georgia",83
+1999,"GHA","Ghana",5954
+1999,"GIN","Guinea",3929
+1999,"GMB","The Gambia",348
+1999,"GNB","Guinea-Bissau",87
+1999,"GNQ","Equatorial Guinea",128
+1999,"GRD","Grenada",13
+1999,"GTM","Guatemala",696
+1999,"GUY","Guyana",25
+1999,"HND","Honduras",4965
+1999,"HRV","Croatia",0
+1999,"HTI","Haiti",9913
+1999,"HUN","Hungary",0
+1999,"IDN","Indonesia",2646
+1999,"IND","India",22828
+1999,"IRN","Iran",1
+1999,"IRQ","Iraq",0
+1999,"JAM","Jamaica",3180
+1999,"JOR","Jordan",5
+1999,"KAZ","Kazakhstan",1184
+1999,"KEN","Kenya",23538
+1999,"KGZ","Kyrgyzstan",113
+1999,"KHM","Cambodia",10513
+1999,"KIR","Kiribati",3
+1999,"KNA","Saint Kitts and Nevis",0
+1999,"KOR","South Korea",0
+1999,"KSV","Kosovo",515
+1999,"LAO","Laos",165
+1999,"LBN","Lebanon",3
+1999,"LBR","Liberia",64
+1999,"LBY","Libya",0
+1999,"LCA","Saint Lucia",40
+1999,"LKA","Sri Lanka",568
+1999,"LSO","Lesotho",397
+1999,"LTU","Lithuania",0
+1999,"LVA","Latvia",0
+1999,"MAR","Morocco",25
+1999,"MDA","Moldova",0
+1999,"MDG","Madagascar",752
+1999,"MDV","Maldives",1
+1999,"MEX","Mexico",2439
+1999,"MHL","Marshall Islands",3
+1999,"MKD","Macedonia",0
+1999,"MLI","Mali",3227
+1999,"MMR","Myanmar",1897
+1999,"MNE","Montenegro",0
+1999,"MNG","Mongolia",16
+1999,"MOZ","Mozambique",5491
+1999,"MRT","Mauritania",10
+1999,"MSR","Montserrat",3
+1999,"MUS","Mauritius",6
+1999,"MWI","Malawi",10491
+1999,"MYS","Malaysia",26
+1999,"NAM","Namibia",819
+1999,"NER","Niger",166
+1999,"NGA","Nigeria",11860
+1999,"NIC","Nicaragua",14645
+1999,"NIU","Niue",3
+1999,"NPL","Nepal",2747
+1999,"NRU","Nauru",1
+1999,"OMN","Oman",0
+1999,"PAK","Pakistan",466
+1999,"PAN","Panama",28
+1999,"PER","Peru",303
+1999,"PHL","Philippines",5347
+1999,"PLW","Palau",3
+1999,"PNG","Papua New Guinea",33230
+1999,"POL","Poland",0
+1999,"PRK","North Korea",0
+1999,"PRY","Paraguay",2
+1999,"PSE","Palestine",275
+1999,"QZA","Unallocated/Unspecified",378203
+1999,"ROU","Romania",72
+1999,"RUS","Russia",0
+1999,"RWA","Rwanda",8014
+1999,"SAU","Saudi Arabia",0
+1999,"SDN","Sudan",325
+1999,"SEN","Senegal",7071
+1999,"SHN","Saint Helena",0
+1999,"SLB","Solomon Islands",2
+1999,"SLE","Sierra Leone",135
+1999,"SLV","El Salvador",595
+1999,"SOM","Somalia",39
+1999,"SRB","Serbia",0
+1999,"SSD","South Sudan",526
+1999,"STP","Sao Tome and Principe",4
+1999,"SUR","Suriname",51
+1999,"SWZ","Swaziland",443
+1999,"SYC","Seychelles",0
+1999,"SYR","Syria",3
+1999,"TCA","Turks and Caicos Islands",0
+1999,"TCD","Chad",1963
+1999,"TGO","Togo",220
+1999,"THA","Thailand",1825
+1999,"TJK","Tajikistan",54
+1999,"TKL","Tokelau",0
+1999,"TKM","Turkmenistan",4
+1999,"TLS","Timor-Leste",12
+1999,"TON","Tonga",2
+1999,"TTO","Trinidad and Tobago",0
+1999,"TUN","Tunisia",5
+1999,"TUR","Turkey",0
+1999,"TUV","Tuvalu",3
+1999,"TZA","Tanzania",13240
+1999,"UGA","Uganda",22904
+1999,"UKR","Ukraine",0
+1999,"URY","Uruguay",0
+1999,"UZB","Uzbekistan",721
+1999,"VCT","Saint Vincent and the Grenadines",14
+1999,"VEN","Venezuela",0
+1999,"VNM","Vietnam",2006
+1999,"VUT","Vanuatu",4
+1999,"WLD","Global",90299
+1999,"WLF","Wallis and Futuna Islands",0
+1999,"WSM","Samoa",2
+1999,"YEM","Yemen",23
+1999,"ZAF","South Africa",19499
+1999,"ZMB","Zambia",16416
+1999,"ZWE","Zimbabwe",23765
+2000,"AFG","Afghanistan",17
+2000,"AGO","Angola",2009
+2000,"AIA","Anguilla",0
+2000,"ALB","Albania",13
+2000,"ARG","Argentina",798
+2000,"ARM","Armenia",16
+2000,"ATG","Antigua and Barbuda",0
+2000,"AZE","Azerbaijan",15
+2000,"BDI","Burundi",986
+2000,"BEN","Benin",1764
+2000,"BFA","Burkina Faso",4743
+2000,"BGD","Bangladesh",5510
+2000,"BGR","Bulgaria",0
+2000,"BHR","Bahrain",0
+2000,"BIH","Bosnia and Herzegovina",23
+2000,"BLR","Belarus",30
+2000,"BLZ","Belize",9
+2000,"BOL","Bolivia",1174
+2000,"BRA","Brazil",19389
+2000,"BTN","Bhutan",1
+2000,"BWA","Botswana",1560
+2000,"CAF","Central African Republic",564
+2000,"CHL","Chile",36
+2000,"CHN","China",11157
+2000,"CIV","Cote d'Ivoire",3069
+2000,"CMR","Cameroon",746
+2000,"COD","Democratic Republic of the Congo",2296
+2000,"COG","Congo",169
+2000,"COK","Cook Islands",0
+2000,"COL","Colombia",27
+2000,"COM","Comoros",86
+2000,"CPV","Cape Verde",91
+2000,"CRI","Costa Rica",321
+2000,"CUB","Cuba",155
+2000,"DJI","Djibouti",20
+2000,"DMA","Dominica",0
+2000,"DOM","Dominican Republic",4636
+2000,"DZA","Algeria",2
+2000,"ECU","Ecuador",576
+2000,"EGY","Egypt",4
+2000,"ERI","Eritrea",3481
+2000,"EST","Estonia",0
+2000,"ETH","Ethiopia",17594
+2000,"FJI","Fiji",0
+2000,"FSM","Federated States of Micronesia",0
+2000,"GAB","Gabon",3
+2000,"GEO","Georgia",38
+2000,"GHA","Ghana",5700
+2000,"GIN","Guinea",4985
+2000,"GMB","The Gambia",370
+2000,"GNB","Guinea-Bissau",548
+2000,"GNQ","Equatorial Guinea",80
+2000,"GRD","Grenada",0
+2000,"GTM","Guatemala",432
+2000,"GUY","Guyana",1040
+2000,"HND","Honduras",4352
+2000,"HRV","Croatia",0
+2000,"HTI","Haiti",6140
+2000,"HUN","Hungary",0
+2000,"IDN","Indonesia",10453
+2000,"IND","India",46332
+2000,"IRN","Iran",0
+2000,"IRQ","Iraq",0
+2000,"JAM","Jamaica",3276
+2000,"JOR","Jordan",2
+2000,"KAZ","Kazakhstan",1132
+2000,"KEN","Kenya",73499
+2000,"KGZ","Kyrgyzstan",223
+2000,"KHM","Cambodia",8240
+2000,"KIR","Kiribati",1
+2000,"KNA","Saint Kitts and Nevis",0
+2000,"KOR","South Korea",55
+2000,"KSV","Kosovo",618
+2000,"LAO","Laos",286
+2000,"LBN","Lebanon",0
+2000,"LBR","Liberia",33
+2000,"LBY","Libya",44
+2000,"LCA","Saint Lucia",12
+2000,"LKA","Sri Lanka",2501
+2000,"LSO","Lesotho",1928
+2000,"LTU","Lithuania",0
+2000,"LVA","Latvia",0
+2000,"MAR","Morocco",2
+2000,"MDA","Moldova",66
+2000,"MDG","Madagascar",1052
+2000,"MDV","Maldives",0
+2000,"MEX","Mexico",2363
+2000,"MHL","Marshall Islands",2
+2000,"MKD","Macedonia",44
+2000,"MLI","Mali",3795
+2000,"MMR","Myanmar",276
+2000,"MNE","Montenegro",12
+2000,"MNG","Mongolia",129
+2000,"MOZ","Mozambique",13096
+2000,"MRT","Mauritania",473
+2000,"MSR","Montserrat",0
+2000,"MUS","Mauritius",1
+2000,"MWI","Malawi",25927
+2000,"MYS","Malaysia",237
+2000,"NAM","Namibia",4118
+2000,"NER","Niger",146
+2000,"NGA","Nigeria",101663
+2000,"NIC","Nicaragua",1938
+2000,"NIU","Niue",1
+2000,"NPL","Nepal",1874
+2000,"NRU","Nauru",1
+2000,"OMN","Oman",0
+2000,"PAK","Pakistan",85
+2000,"PAN","Panama",148
+2000,"PER","Peru",625
+2000,"PHL","Philippines",4152
+2000,"PLW","Palau",1
+2000,"PNG","Papua New Guinea",15692
+2000,"POL","Poland",0
+2000,"PRK","North Korea",0
+2000,"PRY","Paraguay",154
+2000,"PSE","Palestine",0
+2000,"QZA","Unallocated/Unspecified",585207
+2000,"ROU","Romania",16
+2000,"RUS","Russia",0
+2000,"RWA","Rwanda",9239
+2000,"SAU","Saudi Arabia",0
+2000,"SDN","Sudan",118
+2000,"SEN","Senegal",4818
+2000,"SHN","Saint Helena",0
+2000,"SLB","Solomon Islands",0
+2000,"SLE","Sierra Leone",36
+2000,"SLV","El Salvador",470
+2000,"SOM","Somalia",6
+2000,"SRB","Serbia",50
+2000,"SSD","South Sudan",338
+2000,"STP","Sao Tome and Principe",1
+2000,"SUR","Suriname",35
+2000,"SWZ","Swaziland",911
+2000,"SYC","Seychelles",0
+2000,"SYR","Syria",0
+2000,"TCA","Turks and Caicos Islands",0
+2000,"TCD","Chad",2707
+2000,"TGO","Togo",321
+2000,"THA","Thailand",813
+2000,"TJK","Tajikistan",28
+2000,"TKL","Tokelau",0
+2000,"TKM","Turkmenistan",1
+2000,"TLS","Timor-Leste",6
+2000,"TON","Tonga",0
+2000,"TTO","Trinidad and Tobago",0
+2000,"TUN","Tunisia",0
+2000,"TUR","Turkey",0
+2000,"TUV","Tuvalu",1
+2000,"TZA","Tanzania",25735
+2000,"UGA","Uganda",24236
+2000,"UKR","Ukraine",314
+2000,"URY","Uruguay",1
+2000,"UZB","Uzbekistan",1778
+2000,"VCT","Saint Vincent and the Grenadines",0
+2000,"VEN","Venezuela",4
+2000,"VNM","Vietnam",543
+2000,"VUT","Vanuatu",0
+2000,"WLD","Global",175114
+2000,"WLF","Wallis and Futuna Islands",0
+2000,"WSM","Samoa",0
+2000,"YEM","Yemen",5
+2000,"ZAF","South Africa",37671
+2000,"ZMB","Zambia",31734
+2000,"ZWE","Zimbabwe",23010
+2001,"AFG","Afghanistan",85
+2001,"AGO","Angola",4899
+2001,"AIA","Anguilla",0
+2001,"ALB","Albania",234
+2001,"ARG","Argentina",879
+2001,"ARM","Armenia",673
+2001,"ATG","Antigua and Barbuda",0
+2001,"AZE","Azerbaijan",65
+2001,"BDI","Burundi",935
+2001,"BEN","Benin",3596
+2001,"BFA","Burkina Faso",6770
+2001,"BGD","Bangladesh",7892
+2001,"BGR","Bulgaria",0
+2001,"BIH","Bosnia and Herzegovina",64
+2001,"BLR","Belarus",148
+2001,"BLZ","Belize",5
+2001,"BOL","Bolivia",1411
+2001,"BRA","Brazil",28247
+2001,"BRB","Barbados",76
+2001,"BTN","Bhutan",10
+2001,"BWA","Botswana",1250
+2001,"CAF","Central African Republic",217
+2001,"CHL","Chile",30
+2001,"CHN","China",8490
+2001,"CIV","Cote d'Ivoire",3542
+2001,"CMR","Cameroon",1227
+2001,"COD","Democratic Republic of the Congo",6427
+2001,"COG","Congo",247
+2001,"COK","Cook Islands",0
+2001,"COL","Colombia",127
+2001,"COM","Comoros",2
+2001,"CPV","Cape Verde",105
+2001,"CRI","Costa Rica",214
+2001,"CUB","Cuba",705
+2001,"DJI","Djibouti",97
+2001,"DMA","Dominica",2
+2001,"DOM","Dominican Republic",6661
+2001,"DZA","Algeria",0
+2001,"ECU","Ecuador",1642
+2001,"EGY","Egypt",1800
+2001,"ERI","Eritrea",4564
+2001,"EST","Estonia",0
+2001,"ETH","Ethiopia",25728
+2001,"FJI","Fiji",1
+2001,"FSM","Federated States of Micronesia",5
+2001,"GAB","Gabon",3
+2001,"GEO","Georgia",1243
+2001,"GHA","Ghana",9391
+2001,"GIN","Guinea",6924
+2001,"GMB","The Gambia",1056
+2001,"GNB","Guinea-Bissau",626
+2001,"GNQ","Equatorial Guinea",219
+2001,"GRD","Grenada",18
+2001,"GTM","Guatemala",1717
+2001,"GUY","Guyana",3067
+2001,"HND","Honduras",6124
+2001,"HRV","Croatia",0
+2001,"HTI","Haiti",10533
+2001,"HUN","Hungary",0
+2001,"IDN","Indonesia",12942
+2001,"IND","India",39643
+2001,"IRN","Iran",23
+2001,"IRQ","Iraq",0
+2001,"JAM","Jamaica",20675
+2001,"JOR","Jordan",10
+2001,"KAZ","Kazakhstan",2856
+2001,"KEN","Kenya",38166
+2001,"KGZ","Kyrgyzstan",1238
+2001,"KHM","Cambodia",20699
+2001,"KIR","Kiribati",4
+2001,"KNA","Saint Kitts and Nevis",0
+2001,"KSV","Kosovo",501
+2001,"LAO","Laos",561
+2001,"LBN","Lebanon",0
+2001,"LBR","Liberia",9
+2001,"LBY","Libya",0
+2001,"LCA","Saint Lucia",29
+2001,"LKA","Sri Lanka",1241
+2001,"LSO","Lesotho",1402
+2001,"LTU","Lithuania",0
+2001,"LVA","Latvia",0
+2001,"MAR","Morocco",0
+2001,"MDA","Moldova",139
+2001,"MDG","Madagascar",2268
+2001,"MDV","Maldives",3
+2001,"MEX","Mexico",3687
+2001,"MHL","Marshall Islands",4
+2001,"MKD","Macedonia",28
+2001,"MLI","Mali",5411
+2001,"MMR","Myanmar",1739
+2001,"MNE","Montenegro",9
+2001,"MNG","Mongolia",214
+2001,"MOZ","Mozambique",15894
+2001,"MRT","Mauritania",40
+2001,"MSR","Montserrat",0
+2001,"MUS","Mauritius",1
+2001,"MWI","Malawi",19674
+2001,"MYS","Malaysia",62
+2001,"MYT","Mayotte",0
+2001,"NAM","Namibia",4949
+2001,"NER","Niger",5076
+2001,"NGA","Nigeria",36786
+2001,"NIC","Nicaragua",3389
+2001,"NIU","Niue",4
+2001,"NPL","Nepal",7795
+2001,"NRU","Nauru",3
+2001,"OMN","Oman",0
+2001,"PAK","Pakistan",604
+2001,"PAN","Panama",84
+2001,"PER","Peru",1434
+2001,"PHL","Philippines",11224
+2001,"PLW","Palau",4
+2001,"PNG","Papua New Guinea",5216
+2001,"POL","Poland",0
+2001,"PRK","North Korea",0
+2001,"PRY","Paraguay",54
+2001,"PSE","Palestine",0
+2001,"QZA","Unallocated/Unspecified",688908
+2001,"ROU","Romania",6080
+2001,"RUS","Russia",0
+2001,"RWA","Rwanda",14234
+2001,"SAU","Saudi Arabia",0
+2001,"SDN","Sudan",125
+2001,"SEN","Senegal",4945
+2001,"SHN","Saint Helena",0
+2001,"SLB","Solomon Islands",3
+2001,"SLE","Sierra Leone",26
+2001,"SLV","El Salvador",1208
+2001,"SOM","Somalia",3
+2001,"SRB","Serbia",481
+2001,"SSD","South Sudan",243
+2001,"STP","Sao Tome and Principe",1
+2001,"SUR","Suriname",80
+2001,"SWZ","Swaziland",1306
+2001,"SYC","Seychelles",0
+2001,"SYR","Syria",6
+2001,"TCA","Turks and Caicos Islands",0
+2001,"TCD","Chad",2441
+2001,"TGO","Togo",268
+2001,"THA","Thailand",1726
+2001,"TJK","Tajikistan",320
+2001,"TKL","Tokelau",0
+2001,"TKM","Turkmenistan",3
+2001,"TLS","Timor-Leste",25
+2001,"TON","Tonga",3
+2001,"TTO","Trinidad and Tobago",15
+2001,"TUN","Tunisia",0
+2001,"TUR","Turkey",8
+2001,"TUV","Tuvalu",4
+2001,"TZA","Tanzania",29484
+2001,"UGA","Uganda",28418
+2001,"UKR","Ukraine",1504
+2001,"URY","Uruguay",7
+2001,"UZB","Uzbekistan",580
+2001,"VCT","Saint Vincent and the Grenadines",20
+2001,"VEN","Venezuela",31
+2001,"VNM","Vietnam",8925
+2001,"VUT","Vanuatu",6
+2001,"WLD","Global",198144
+2001,"WLF","Wallis and Futuna Islands",0
+2001,"WSM","Samoa",3
+2001,"YEM","Yemen",32
+2001,"ZAF","South Africa",60079
+2001,"ZMB","Zambia",35494
+2001,"ZWE","Zimbabwe",20764
+2002,"AFG","Afghanistan",57
+2002,"AGO","Angola",6999
+2002,"AIA","Anguilla",0
+2002,"ALB","Albania",502
+2002,"ARG","Argentina",613
+2002,"ARM","Armenia",122
+2002,"ATG","Antigua and Barbuda",7
+2002,"AZE","Azerbaijan",66
+2002,"BDI","Burundi",2815
+2002,"BEN","Benin",1677
+2002,"BFA","Burkina Faso",7916
+2002,"BGD","Bangladesh",3661
+2002,"BGR","Bulgaria",0
+2002,"BIH","Bosnia and Herzegovina",618
+2002,"BLR","Belarus",39
+2002,"BLZ","Belize",69
+2002,"BOL","Bolivia",381
+2002,"BRA","Brazil",24860
+2002,"BTN","Bhutan",2
+2002,"BWA","Botswana",14108
+2002,"CAF","Central African Republic",89
+2002,"CHL","Chile",10
+2002,"CHN","China",12599
+2002,"CIV","Cote d'Ivoire",17675
+2002,"CMR","Cameroon",1694
+2002,"COD","Democratic Republic of the Congo",4152
+2002,"COG","Congo",251
+2002,"COK","Cook Islands",0
+2002,"COL","Colombia",379
+2002,"COM","Comoros",2
+2002,"CPV","Cape Verde",654
+2002,"CRI","Costa Rica",244
+2002,"CUB","Cuba",1044
+2002,"CZE","Czech Republic",0
+2002,"DJI","Djibouti",352
+2002,"DMA","Dominica",21
+2002,"DOM","Dominican Republic",4805
+2002,"DZA","Algeria",0
+2002,"ECU","Ecuador",405
+2002,"EGY","Egypt",162
+2002,"ERI","Eritrea",3624
+2002,"EST","Estonia",0
+2002,"ETH","Ethiopia",25692
+2002,"FJI","Fiji",0
+2002,"FSM","Federated States of Micronesia",0
+2002,"GAB","Gabon",5
+2002,"GEO","Georgia",79
+2002,"GHA","Ghana",8071
+2002,"GIN","Guinea",5570
+2002,"GMB","The Gambia",1115
+2002,"GNB","Guinea-Bissau",649
+2002,"GNQ","Equatorial Guinea",22
+2002,"GRD","Grenada",15
+2002,"GTM","Guatemala",1563
+2002,"GUY","Guyana",2478
+2002,"HND","Honduras",3856
+2002,"HRV","Croatia",132
+2002,"HTI","Haiti",7694
+2002,"HUN","Hungary",0
+2002,"IDN","Indonesia",5566
+2002,"IND","India",34957
+2002,"IRN","Iran",62
+2002,"IRQ","Iraq",0
+2002,"JAM","Jamaica",2772
+2002,"JOR","Jordan",26
+2002,"KAZ","Kazakhstan",49
+2002,"KEN","Kenya",62117
+2002,"KGZ","Kyrgyzstan",214
+2002,"KHM","Cambodia",20660
+2002,"KIR","Kiribati",1
+2002,"KNA","Saint Kitts and Nevis",0
+2002,"KSV","Kosovo",2662
+2002,"LAO","Laos",495
+2002,"LBN","Lebanon",1
+2002,"LBR","Liberia",52
+2002,"LBY","Libya",0
+2002,"LCA","Saint Lucia",47
+2002,"LKA","Sri Lanka",859
+2002,"LSO","Lesotho",2373
+2002,"LTU","Lithuania",0
+2002,"LVA","Latvia",0
+2002,"MAR","Morocco",228
+2002,"MDA","Moldova",564
+2002,"MDG","Madagascar",533
+2002,"MDV","Maldives",0
+2002,"MEX","Mexico",2069
+2002,"MHL","Marshall Islands",1
+2002,"MKD","Macedonia",164
+2002,"MLI","Mali",2216
+2002,"MMR","Myanmar",5063
+2002,"MNE","Montenegro",141
+2002,"MNG","Mongolia",18
+2002,"MOZ","Mozambique",29804
+2002,"MRT","Mauritania",8
+2002,"MSR","Montserrat",4
+2002,"MUS","Mauritius",0
+2002,"MWI","Malawi",16965
+2002,"MYS","Malaysia",213
+2002,"MYT","Mayotte",0
+2002,"NAM","Namibia",8260
+2002,"NER","Niger",454
+2002,"NGA","Nigeria",32942
+2002,"NIC","Nicaragua",3810
+2002,"NIU","Niue",1
+2002,"NPL","Nepal",2324
+2002,"NRU","Nauru",1
+2002,"OMN","Oman",0
+2002,"PAK","Pakistan",443
+2002,"PAN","Panama",141
+2002,"PER","Peru",682
+2002,"PHL","Philippines",2664
+2002,"PLW","Palau",1
+2002,"PNG","Papua New Guinea",389
+2002,"POL","Poland",0
+2002,"PRK","North Korea",76
+2002,"PRY","Paraguay",23
+2002,"PSE","Palestine",4
+2002,"QZA","Unallocated/Unspecified",899192
+2002,"ROU","Romania",7992
+2002,"RUS","Russia",0
+2002,"RWA","Rwanda",9163
+2002,"SAU","Saudi Arabia",16
+2002,"SDN","Sudan",669
+2002,"SEN","Senegal",3359
+2002,"SHN","Saint Helena",0
+2002,"SLB","Solomon Islands",0
+2002,"SLE","Sierra Leone",106
+2002,"SLV","El Salvador",1031
+2002,"SOM","Somalia",195
+2002,"SRB","Serbia",155
+2002,"SSD","South Sudan",1138
+2002,"STP","Sao Tome and Principe",0
+2002,"SUR","Suriname",6
+2002,"SVK","Slovakia",0
+2002,"SWZ","Swaziland",3072
+2002,"SYC","Seychelles",0
+2002,"SYR","Syria",12
+2002,"TCA","Turks and Caicos Islands",0
+2002,"TCD","Chad",2258
+2002,"TGO","Togo",270
+2002,"THA","Thailand",15708
+2002,"TJK","Tajikistan",43
+2002,"TKL","Tokelau",0
+2002,"TKM","Turkmenistan",0
+2002,"TLS","Timor-Leste",121
+2002,"TON","Tonga",0
+2002,"TTO","Trinidad and Tobago",0
+2002,"TUN","Tunisia",9
+2002,"TUR","Turkey",0
+2002,"TUV","Tuvalu",1
+2002,"TZA","Tanzania",47913
+2002,"UGA","Uganda",37166
+2002,"UKR","Ukraine",404
+2002,"URY","Uruguay",26
+2002,"UZB","Uzbekistan",157
+2002,"VCT","Saint Vincent and the Grenadines",17
+2002,"VEN","Venezuela",108
+2002,"VNM","Vietnam",10269
+2002,"VUT","Vanuatu",0
+2002,"WLD","Global",761219
+2002,"WLF","Wallis and Futuna Islands",0
+2002,"WSM","Samoa",0
+2002,"YEM","Yemen",157
+2002,"ZAF","South Africa",49143
+2002,"ZMB","Zambia",39791
+2002,"ZWE","Zimbabwe",31277
+2003,"AFG","Afghanistan",164
+2003,"AGO","Angola",7734
+2003,"AIA","Anguilla",0
+2003,"ALB","Albania",677
+2003,"ARG","Argentina",5035
+2003,"ARM","Armenia",2288
+2003,"ATG","Antigua and Barbuda",8
+2003,"AZE","Azerbaijan",57
+2003,"BDI","Burundi",5893
+2003,"BEN","Benin",9515
+2003,"BFA","Burkina Faso",12219
+2003,"BGD","Bangladesh",5331
+2003,"BGR","Bulgaria",316
+2003,"BIH","Bosnia and Herzegovina",151
+2003,"BLR","Belarus",76
+2003,"BLZ","Belize",80
+2003,"BOL","Bolivia",1289
+2003,"BRA","Brazil",19177
+2003,"BRB","Barbados",1715
+2003,"BTN","Bhutan",4
+2003,"BWA","Botswana",26016
+2003,"CAF","Central African Republic",2151
+2003,"CHL","Chile",6041
+2003,"CHN","China",26225
+2003,"CIV","Cote d'Ivoire",16159
+2003,"CMR","Cameroon",5398
+2003,"COD","Democratic Republic of the Congo",18540
+2003,"COG","Congo",501
+2003,"COK","Cook Islands",0
+2003,"COL","Colombia",82
+2003,"COM","Comoros",20
+2003,"CPV","Cape Verde",1533
+2003,"CRI","Costa Rica",134
+2003,"CUB","Cuba",8763
+2003,"CZE","Czech Republic",0
+2003,"DJI","Djibouti",824
+2003,"DMA","Dominica",27
+2003,"DOM","Dominican Republic",7774
+2003,"DZA","Algeria",10
+2003,"ECU","Ecuador",843
+2003,"EGY","Egypt",760
+2003,"ERI","Eritrea",6331
+2003,"EST","Estonia",1557
+2003,"ETH","Ethiopia",65703
+2003,"FJI","Fiji",255
+2003,"FSM","Federated States of Micronesia",4
+2003,"GAB","Gabon",56
+2003,"GEO","Georgia",1392
+2003,"GHA","Ghana",16225
+2003,"GIN","Guinea",9601
+2003,"GMB","The Gambia",2725
+2003,"GNB","Guinea-Bissau",795
+2003,"GNQ","Equatorial Guinea",178
+2003,"GRD","Grenada",70
+2003,"GTM","Guatemala",4108
+2003,"GUY","Guyana",5701
+2003,"HND","Honduras",9701
+2003,"HRV","Croatia",1450
+2003,"HTI","Haiti",33826
+2003,"HUN","Hungary",23
+2003,"IDN","Indonesia",18734
+2003,"IND","India",56439
+2003,"IRN","Iran",0
+2003,"IRQ","Iraq",0
+2003,"JAM","Jamaica",4946
+2003,"JOR","Jordan",263
+2003,"KAZ","Kazakhstan",1804
+2003,"KEN","Kenya",96818
+2003,"KGZ","Kyrgyzstan",319
+2003,"KHM","Cambodia",34348
+2003,"KIR","Kiribati",3
+2003,"KNA","Saint Kitts and Nevis",83
+2003,"KSV","Kosovo",4207
+2003,"LAO","Laos",1012
+2003,"LBN","Lebanon",2
+2003,"LBR","Liberia",452
+2003,"LBY","Libya",6
+2003,"LCA","Saint Lucia",66
+2003,"LKA","Sri Lanka",429
+2003,"LSO","Lesotho",5816
+2003,"LTU","Lithuania",0
+2003,"LVA","Latvia",0
+2003,"MAR","Morocco",2282
+2003,"MDA","Moldova",1397
+2003,"MDG","Madagascar",4010
+2003,"MDV","Maldives",0
+2003,"MEX","Mexico",3046
+2003,"MHL","Marshall Islands",3
+2003,"MKD","Macedonia",212
+2003,"MLI","Mali",6091
+2003,"MMR","Myanmar",12345
+2003,"MNE","Montenegro",30
+2003,"MNG","Mongolia",486
+2003,"MOZ","Mozambique",34351
+2003,"MRT","Mauritania",33
+2003,"MSR","Montserrat",5
+2003,"MUS","Mauritius",18
+2003,"MWI","Malawi",28435
+2003,"MYS","Malaysia",75
+2003,"MYT","Mayotte",0
+2003,"NAM","Namibia",14389
+2003,"NER","Niger",2190
+2003,"NGA","Nigeria",65854
+2003,"NIC","Nicaragua",7627
+2003,"NIU","Niue",2
+2003,"NPL","Nepal",17987
+2003,"NRU","Nauru",2
+2003,"OMN","Oman",0
+2003,"PAK","Pakistan",1836
+2003,"PAN","Panama",226
+2003,"PER","Peru",947
+2003,"PHL","Philippines",16532
+2003,"PLW","Palau",2
+2003,"PNG","Papua New Guinea",8884
+2003,"POL","Poland",0
+2003,"PRK","North Korea",0
+2003,"PRY","Paraguay",234
+2003,"PSE","Palestine",127
+2003,"QZA","Unallocated/Unspecified",1143867
+2003,"ROU","Romania",6661
+2003,"RUS","Russia",212
+2003,"RWA","Rwanda",21841
+2003,"SAU","Saudi Arabia",0
+2003,"SDN","Sudan",1358
+2003,"SEN","Senegal",10757
+2003,"SHN","Saint Helena",0
+2003,"SLB","Solomon Islands",26
+2003,"SLE","Sierra Leone",1550
+2003,"SLV","El Salvador",1107
+2003,"SOM","Somalia",305
+2003,"SRB","Serbia",1361
+2003,"SSD","South Sudan",857
+2003,"STP","Sao Tome and Principe",14
+2003,"SUR","Suriname",25
+2003,"SWZ","Swaziland",11295
+2003,"SYC","Seychelles",1
+2003,"SYR","Syria",263
+2003,"TCD","Chad",3940
+2003,"TGO","Togo",5515
+2003,"THA","Thailand",19937
+2003,"TJK","Tajikistan",1470
+2003,"TKL","Tokelau",0
+2003,"TKM","Turkmenistan",234
+2003,"TLS","Timor-Leste",16
+2003,"TON","Tonga",25
+2003,"TTO","Trinidad and Tobago",57
+2003,"TUN","Tunisia",18
+2003,"TUR","Turkey",1
+2003,"TUV","Tuvalu",2
+2003,"TZA","Tanzania",64604
+2003,"UGA","Uganda",54107
+2003,"UKR","Ukraine",1976
+2003,"URY","Uruguay",15
+2003,"UZB","Uzbekistan",5999
+2003,"VCT","Saint Vincent and the Grenadines",23
+2003,"VEN","Venezuela",8
+2003,"VNM","Vietnam",10472
+2003,"VUT","Vanuatu",28
+2003,"WLD","Global",609767
+2003,"WLF","Wallis and Futuna Islands",0
+2003,"WSM","Samoa",26
+2003,"YEM","Yemen",227
+2003,"ZAF","South Africa",92923
+2003,"ZMB","Zambia",55647
+2003,"ZWE","Zimbabwe",32288
+2004,"AFG","Afghanistan",77
+2004,"AGO","Angola",13390
+2004,"AIA","Anguilla",0
+2004,"ALB","Albania",829
+2004,"ARG","Argentina",7516
+2004,"ARM","Armenia",1749
+2004,"ATG","Antigua and Barbuda",177
+2004,"AZE","Azerbaijan",38
+2004,"BDI","Burundi",10106
+2004,"BEN","Benin",18446
+2004,"BFA","Burkina Faso",14657
+2004,"BGD","Bangladesh",22051
+2004,"BGR","Bulgaria",2967
+2004,"BIH","Bosnia and Herzegovina",161
+2004,"BLR","Belarus",1329
+2004,"BLZ","Belize",489
+2004,"BOL","Bolivia",3519
+2004,"BRA","Brazil",20841
+2004,"BRB","Barbados",1078
+2004,"BTN","Bhutan",157
+2004,"BWA","Botswana",31250
+2004,"CAF","Central African Republic",6262
+2004,"CHL","Chile",11389
+2004,"CHN","China",109717
+2004,"CIV","Cote d'Ivoire",20820
+2004,"CMR","Cameroon",19601
+2004,"COD","Democratic Republic of the Congo",20182
+2004,"COG","Congo",1387
+2004,"COK","Cook Islands",0
+2004,"COL","Colombia",648
+2004,"COM","Comoros",385
+2004,"CPV","Cape Verde",4404
+2004,"CRI","Costa Rica",1404
+2004,"CUB","Cuba",10057
+2004,"CZE","Czech Republic",0
+2004,"DJI","Djibouti",713
+2004,"DMA","Dominica",192
+2004,"DOM","Dominican Republic",14454
+2004,"DZA","Algeria",1379
+2004,"ECU","Ecuador",476
+2004,"EGY","Egypt",1127
+2004,"ERI","Eritrea",10742
+2004,"EST","Estonia",2547
+2004,"ETH","Ethiopia",59919
+2004,"FJI","Fiji",152
+2004,"FSM","Federated States of Micronesia",10
+2004,"GAB","Gabon",1345
+2004,"GEO","Georgia",621
+2004,"GHA","Ghana",40915
+2004,"GIN","Guinea",11301
+2004,"GMB","The Gambia",7357
+2004,"GNB","Guinea-Bissau",476
+2004,"GNQ","Equatorial Guinea",127
+2004,"GRD","Grenada",220
+2004,"GTM","Guatemala",3318
+2004,"GUY","Guyana",10835
+2004,"HND","Honduras",17223
+2004,"HRV","Croatia",358
+2004,"HTI","Haiti",38559
+2004,"HUN","Hungary",0
+2004,"IDN","Indonesia",20471
+2004,"IND","India",88239
+2004,"IRN","Iran",0
+2004,"IRQ","Iraq",0
+2004,"JAM","Jamaica",7661
+2004,"JOR","Jordan",869
+2004,"KAZ","Kazakhstan",4775
+2004,"KEN","Kenya",147614
+2004,"KGZ","Kyrgyzstan",3432
+2004,"KHM","Cambodia",40317
+2004,"KIR","Kiribati",8
+2004,"KNA","Saint Kitts and Nevis",178
+2004,"KSV","Kosovo",2925
+2004,"LAO","Laos",1461
+2004,"LBN","Lebanon",0
+2004,"LBR","Liberia",2035
+2004,"LBY","Libya",1
+2004,"LCA","Saint Lucia",258
+2004,"LKA","Sri Lanka",251
+2004,"LSO","Lesotho",8513
+2004,"LTU","Lithuania",0
+2004,"LVA","Latvia",0
+2004,"MAR","Morocco",2117
+2004,"MDA","Moldova",2661
+2004,"MDG","Madagascar",16460
+2004,"MDV","Maldives",0
+2004,"MEX","Mexico",4461
+2004,"MHL","Marshall Islands",8
+2004,"MKD","Macedonia",1992
+2004,"MLI","Mali",13120
+2004,"MMR","Myanmar",16920
+2004,"MNE","Montenegro",88
+2004,"MNG","Mongolia",647
+2004,"MOZ","Mozambique",92692
+2004,"MRT","Mauritania",674
+2004,"MSR","Montserrat",177
+2004,"MUS","Mauritius",11
+2004,"MWI","Malawi",69097
+2004,"MYS","Malaysia",21
+2004,"MYT","Mayotte",0
+2004,"NAM","Namibia",23986
+2004,"NER","Niger",5524
+2004,"NGA","Nigeria",76329
+2004,"NIC","Nicaragua",15928
+2004,"NIU","Niue",6
+2004,"NPL","Nepal",19773
+2004,"NRU","Nauru",5
+2004,"OMN","Oman",0
+2004,"PAK","Pakistan",11134
+2004,"PAN","Panama",61
+2004,"PER","Peru",7877
+2004,"PHL","Philippines",24219
+2004,"PLW","Palau",6
+2004,"PNG","Papua New Guinea",14925
+2004,"POL","Poland",0
+2004,"PRK","North Korea",0
+2004,"PRY","Paraguay",203
+2004,"PSE","Palestine",0
+2004,"QZA","Unallocated/Unspecified",1659675
+2004,"ROU","Romania",14311
+2004,"RUS","Russia",11713
+2004,"RWA","Rwanda",33464
+2004,"SDN","Sudan",2915
+2004,"SEN","Senegal",16150
+2004,"SHN","Saint Helena",0
+2004,"SLB","Solomon Islands",8
+2004,"SLE","Sierra Leone",2076
+2004,"SLV","El Salvador",7947
+2004,"SOM","Somalia",83
+2004,"SRB","Serbia",1406
+2004,"SSD","South Sudan",2486
+2004,"STP","Sao Tome and Principe",41
+2004,"SUR","Suriname",206
+2004,"SVK","Slovakia",0
+2004,"SWZ","Swaziland",5323
+2004,"SYC","Seychelles",0
+2004,"SYR","Syria",0
+2004,"TCA","Turks and Caicos Islands",0
+2004,"TCD","Chad",6616
+2004,"TGO","Togo",7115
+2004,"THA","Thailand",39411
+2004,"TJK","Tajikistan",4018
+2004,"TKL","Tokelau",0
+2004,"TKM","Turkmenistan",26
+2004,"TLS","Timor-Leste",13
+2004,"TON","Tonga",6
+2004,"TTO","Trinidad and Tobago",6445
+2004,"TUN","Tunisia",0
+2004,"TUR","Turkey",5
+2004,"TUV","Tuvalu",6
+2004,"TZA","Tanzania",83702
+2004,"UGA","Uganda",135823
+2004,"UKR","Ukraine",2452
+2004,"URY","Uruguay",1
+2004,"UZB","Uzbekistan",1286
+2004,"VCT","Saint Vincent and the Grenadines",201
+2004,"VEN","Venezuela",79
+2004,"VNM","Vietnam",21763
+2004,"VUT","Vanuatu",40
+2004,"WLD","Global",295369
+2004,"WLF","Wallis and Futuna Islands",0
+2004,"WSM","Samoa",8
+2004,"YEM","Yemen",38
+2004,"ZAF","South Africa",141140
+2004,"ZMB","Zambia",107632
+2004,"ZWE","Zimbabwe",37707
+2005,"AFG","Afghanistan",547
+2005,"AGO","Angola",28817
+2005,"AIA","Anguilla",0
+2005,"ALB","Albania",2412
+2005,"ARG","Argentina",4331
+2005,"ARM","Armenia",3819
+2005,"ATG","Antigua and Barbuda",3
+2005,"AZE","Azerbaijan",1495
+2005,"BDI","Burundi",11271
+2005,"BEN","Benin",19022
+2005,"BFA","Burkina Faso",14951
+2005,"BGD","Bangladesh",23925
+2005,"BGR","Bulgaria",5437
+2005,"BIH","Bosnia and Herzegovina",2287
+2005,"BLR","Belarus",7031
+2005,"BLZ","Belize",120
+2005,"BOL","Bolivia",1059
+2005,"BRA","Brazil",61974
+2005,"BRB","Barbados",711
+2005,"BTN","Bhutan",297
+2005,"BWA","Botswana",27194
+2005,"CAF","Central African Republic",5142
+2005,"CHL","Chile",12672
+2005,"CHN","China",61289
+2005,"CIV","Cote d'Ivoire",35809
+2005,"CMR","Cameroon",14538
+2005,"COD","Democratic Republic of the Congo",40515
+2005,"COG","Congo",1579
+2005,"COK","Cook Islands",194
+2005,"COL","Colombia",3175
+2005,"COM","Comoros",10
+2005,"CPV","Cape Verde",1878
+2005,"CRI","Costa Rica",186
+2005,"CUB","Cuba",5854
+2005,"DJI","Djibouti",4411
+2005,"DMA","Dominica",181
+2005,"DOM","Dominican Republic",21702
+2005,"DZA","Algeria",345
+2005,"ECU","Ecuador",3761
+2005,"EGY","Egypt",548
+2005,"ERI","Eritrea",8742
+2005,"EST","Estonia",3442
+2005,"ETH","Ethiopia",163066
+2005,"FJI","Fiji",315
+2005,"FSM","Federated States of Micronesia",14
+2005,"GAB","Gabon",113
+2005,"GEO","Georgia",1157
+2005,"GHA","Ghana",41062
+2005,"GIN","Guinea",10225
+2005,"GMB","The Gambia",10436
+2005,"GNB","Guinea-Bissau",1309
+2005,"GNQ","Equatorial Guinea",3236
+2005,"GRD","Grenada",14
+2005,"GTM","Guatemala",10698
+2005,"GUY","Guyana",19141
+2005,"HND","Honduras",23271
+2005,"HRV","Croatia",2647
+2005,"HTI","Haiti",53085
+2005,"HUN","Hungary",0
+2005,"IDN","Indonesia",68290
+2005,"IND","India",122445
+2005,"IRN","Iran",1012
+2005,"IRQ","Iraq",9
+2005,"JAM","Jamaica",6034
+2005,"JOR","Jordan",487
+2005,"KAZ","Kazakhstan",4970
+2005,"KEN","Kenya",124862
+2005,"KGZ","Kyrgyzstan",7053
+2005,"KHM","Cambodia",56593
+2005,"KIR","Kiribati",202
+2005,"KNA","Saint Kitts and Nevis",0
+2005,"KSV","Kosovo",2592
+2005,"LAO","Laos",4523
+2005,"LBN","Lebanon",137
+2005,"LBR","Liberia",5731
+2005,"LBY","Libya",3
+2005,"LCA","Saint Lucia",85
+2005,"LKA","Sri Lanka",5360
+2005,"LSO","Lesotho",11149
+2005,"LTU","Lithuania",0
+2005,"LVA","Latvia",0
+2005,"MAR","Morocco",4566
+2005,"MDA","Moldova",11096
+2005,"MDG","Madagascar",4279
+2005,"MDV","Maldives",1
+2005,"MEX","Mexico",4179
+2005,"MHL","Marshall Islands",202
+2005,"MKD","Macedonia",4627
+2005,"MLI","Mali",15828
+2005,"MMR","Myanmar",26954
+2005,"MNE","Montenegro",1126
+2005,"MNG","Mongolia",592
+2005,"MOZ","Mozambique",108739
+2005,"MRT","Mauritania",486
+2005,"MSR","Montserrat",8
+2005,"MUS","Mauritius",10
+2005,"MWI","Malawi",69828
+2005,"MYS","Malaysia",26
+2005,"MYT","Mayotte",0
+2005,"NAM","Namibia",40513
+2005,"NER","Niger",4157
+2005,"NGA","Nigeria",111479
+2005,"NIC","Nicaragua",11822
+2005,"NIU","Niue",154
+2005,"NPL","Nepal",19755
+2005,"NRU","Nauru",199
+2005,"OMN","Oman",0
+2005,"PAK","Pakistan",13355
+2005,"PAN","Panama",95
+2005,"PER","Peru",9328
+2005,"PHL","Philippines",4662
+2005,"PLW","Palau",154
+2005,"PNG","Papua New Guinea",19035
+2005,"POL","Poland",0
+2005,"PRK","North Korea",0
+2005,"PRY","Paraguay",78
+2005,"PSE","Palestine",0
+2005,"QZA","Unallocated/Unspecified",1750456
+2005,"ROU","Romania",10422
+2005,"RUS","Russia",32448
+2005,"RWA","Rwanda",61074
+2005,"SDN","Sudan",6031
+2005,"SEN","Senegal",21182
+2005,"SHN","Saint Helena",0
+2005,"SLB","Solomon Islands",224
+2005,"SLE","Sierra Leone",8235
+2005,"SLV","El Salvador",13590
+2005,"SOM","Somalia",830
+2005,"SRB","Serbia",6093
+2005,"SSD","South Sudan",3882
+2005,"STP","Sao Tome and Principe",243
+2005,"SUR","Suriname",1525
+2005,"SVK","Slovakia",0
+2005,"SWZ","Swaziland",30922
+2005,"SYC","Seychelles",0
+2005,"SYR","Syria",294
+2005,"TCA","Turks and Caicos Islands",38
+2005,"TCD","Chad",10294
+2005,"TGO","Togo",3785
+2005,"THA","Thailand",21599
+2005,"TJK","Tajikistan",3434
+2005,"TKL","Tokelau",189
+2005,"TKM","Turkmenistan",128
+2005,"TLS","Timor-Leste",29
+2005,"TON","Tonga",223
+2005,"TTO","Trinidad and Tobago",635
+2005,"TUN","Tunisia",0
+2005,"TUR","Turkey",33
+2005,"TUV","Tuvalu",201
+2005,"TZA","Tanzania",143668
+2005,"UGA","Uganda",178654
+2005,"UKR","Ukraine",59807
+2005,"URY","Uruguay",0
+2005,"UZB","Uzbekistan",3234
+2005,"VCT","Saint Vincent and the Grenadines",61
+2005,"VEN","Venezuela",369
+2005,"VNM","Vietnam",47707
+2005,"VUT","Vanuatu",206
+2005,"WLD","Global",670602
+2005,"WLF","Wallis and Futuna Islands",0
+2005,"WSM","Samoa",201
+2005,"YEM","Yemen",3243
+2005,"ZAF","South Africa",202040
+2005,"ZMB","Zambia",177426
+2005,"ZWE","Zimbabwe",87869
+2006,"AFG","Afghanistan",830
+2006,"AGO","Angola",23405
+2006,"ALB","Albania",1638
+2006,"ARG","Argentina",2786
+2006,"ARM","Armenia",2618
+2006,"ATG","Antigua and Barbuda",0
+2006,"AZE","Azerbaijan",6746
+2006,"BDI","Burundi",17101
+2006,"BEN","Benin",19892
+2006,"BFA","Burkina Faso",21754
+2006,"BGD","Bangladesh",11803
+2006,"BGR","Bulgaria",4698
+2006,"BIH","Bosnia and Herzegovina",2730
+2006,"BLR","Belarus",5071
+2006,"BLZ","Belize",432
+2006,"BOL","Bolivia",2708
+2006,"BRA","Brazil",37019
+2006,"BTN","Bhutan",200
+2006,"BWA","Botswana",52859
+2006,"CAF","Central African Republic",10917
+2006,"CHL","Chile",3385
+2006,"CHN","China",98331
+2006,"CIV","Cote d'Ivoire",43038
+2006,"CMR","Cameroon",18913
+2006,"COD","Democratic Republic of the Congo",39978
+2006,"COG","Congo",6116
+2006,"COK","Cook Islands",0
+2006,"COL","Colombia",7071
+2006,"COM","Comoros",69
+2006,"CPV","Cape Verde",909
+2006,"CRI","Costa Rica",307
+2006,"CUB","Cuba",7369
+2006,"DJI","Djibouti",4658
+2006,"DMA","Dominica",114
+2006,"DOM","Dominican Republic",18642
+2006,"DZA","Algeria",1315
+2006,"ECU","Ecuador",7788
+2006,"EGY","Egypt",607
+2006,"ERI","Eritrea",9249
+2006,"ETH","Ethiopia",204493
+2006,"FJI","Fiji",135
+2006,"FSM","Federated States of Micronesia",117
+2006,"GAB","Gabon",2071
+2006,"GEO","Georgia",2452
+2006,"GHA","Ghana",44390
+2006,"GIN","Guinea",11066
+2006,"GMB","The Gambia",3953
+2006,"GNB","Guinea-Bissau",1515
+2006,"GNQ","Equatorial Guinea",1743
+2006,"GRD","Grenada",267
+2006,"GTM","Guatemala",11913
+2006,"GUY","Guyana",27584
+2006,"HND","Honduras",14185
+2006,"HRV","Croatia",2094
+2006,"HTI","Haiti",81997
+2006,"HUN","Hungary",0
+2006,"IDN","Indonesia",78418
+2006,"IND","India",165091
+2006,"IRN","Iran",1153
+2006,"IRQ","Iraq",11
+2006,"JAM","Jamaica",6632
+2006,"JOR","Jordan",70
+2006,"KAZ","Kazakhstan",10646
+2006,"KEN","Kenya",198734
+2006,"KGZ","Kyrgyzstan",5113
+2006,"KHM","Cambodia",50651
+2006,"KIR","Kiribati",77
+2006,"KNA","Saint Kitts and Nevis",226
+2006,"KSV","Kosovo",2656
+2006,"LAO","Laos",4646
+2006,"LBN","Lebanon",23
+2006,"LBR","Liberia",4619
+2006,"LBY","Libya",628
+2006,"LCA","Saint Lucia",498
+2006,"LKA","Sri Lanka",4619
+2006,"LSO","Lesotho",13850
+2006,"LTU","Lithuania",0
+2006,"LVA","Latvia",0
+2006,"MAR","Morocco",2769
+2006,"MDA","Moldova",5873
+2006,"MDG","Madagascar",10471
+2006,"MDV","Maldives",1
+2006,"MEX","Mexico",5004
+2006,"MHL","Marshall Islands",83
+2006,"MKD","Macedonia",3953
+2006,"MLI","Mali",18271
+2006,"MMR","Myanmar",10711
+2006,"MNE","Montenegro",1153
+2006,"MNG","Mongolia",1596
+2006,"MOZ","Mozambique",155500
+2006,"MRT","Mauritania",2296
+2006,"MSR","Montserrat",2
+2006,"MUS","Mauritius",401
+2006,"MWI","Malawi",97571
+2006,"MYS","Malaysia",38
+2006,"MYT","Mayotte",0
+2006,"NAM","Namibia",80060
+2006,"NER","Niger",4384
+2006,"NGA","Nigeria",181985
+2006,"NIC","Nicaragua",15153
+2006,"NIU","Niue",66
+2006,"NPL","Nepal",14947
+2006,"NRU","Nauru",52
+2006,"PAK","Pakistan",17455
+2006,"PAN","Panama",138
+2006,"PER","Peru",12314
+2006,"PHL","Philippines",6240
+2006,"PLW","Palau",66
+2006,"PNG","Papua New Guinea",30191
+2006,"POL","Poland",0
+2006,"PRK","North Korea",1
+2006,"PRY","Paraguay",286
+2006,"PSE","Palestine",55
+2006,"QZA","Unallocated/Unspecified",2155906
+2006,"ROU","Romania",5125
+2006,"RUS","Russia",67030
+2006,"RWA","Rwanda",99028
+2006,"SDN","Sudan",22213
+2006,"SEN","Senegal",22862
+2006,"SHN","Saint Helena",0
+2006,"SLB","Solomon Islands",88
+2006,"SLE","Sierra Leone",5994
+2006,"SLV","El Salvador",5088
+2006,"SOM","Somalia",954
+2006,"SRB","Serbia",2344
+2006,"SSD","South Sudan",4347
+2006,"STP","Sao Tome and Principe",326
+2006,"SUR","Suriname",260
+2006,"SVK","Slovakia",0
+2006,"SWZ","Swaziland",13962
+2006,"SYC","Seychelles",0
+2006,"SYR","Syria",15
+2006,"TCD","Chad",8676
+2006,"TGO","Togo",1719
+2006,"THA","Thailand",48835
+2006,"TJK","Tajikistan",1670
+2006,"TKL","Tokelau",4
+2006,"TKM","Turkmenistan",93
+2006,"TLS","Timor-Leste",385
+2006,"TON","Tonga",71
+2006,"TUN","Tunisia",0
+2006,"TUR","Turkey",2027
+2006,"TUV","Tuvalu",67
+2006,"TZA","Tanzania",186247
+2006,"UGA","Uganda",219409
+2006,"UKR","Ukraine",58080
+2006,"URY","Uruguay",0
+2006,"UZB","Uzbekistan",6926
+2006,"VCT","Saint Vincent and the Grenadines",345
+2006,"VEN","Venezuela",207
+2006,"VNM","Vietnam",63066
+2006,"VUT","Vanuatu",138
+2006,"WLD","Global",1014259
+2006,"WLF","Wallis and Futuna Islands",0
+2006,"WSM","Samoa",37
+2006,"YEM","Yemen",363
+2006,"ZAF","South Africa",233455
+2006,"ZMB","Zambia",184754
+2006,"ZWE","Zimbabwe",94496
+2007,"AFG","Afghanistan",394
+2007,"AGO","Angola",17223
+2007,"ALB","Albania",2512
+2007,"ARG","Argentina",7385
+2007,"ARM","Armenia",2912
+2007,"ATG","Antigua and Barbuda",4
+2007,"AZE","Azerbaijan",2286
+2007,"BDI","Burundi",17786
+2007,"BEN","Benin",5559
+2007,"BFA","Burkina Faso",27801
+2007,"BGD","Bangladesh",8880
+2007,"BGR","Bulgaria",4079
+2007,"BIH","Bosnia and Herzegovina",2877
+2007,"BLR","Belarus",1022
+2007,"BLZ","Belize",79
+2007,"BOL","Bolivia",2056
+2007,"BRA","Brazil",33824
+2007,"BTN","Bhutan",271
+2007,"BWA","Botswana",61530
+2007,"CAF","Central African Republic",2022
+2007,"CHL","Chile",5742
+2007,"CHN","China",135717
+2007,"CIV","Cote d'Ivoire",49088
+2007,"CMR","Cameroon",40984
+2007,"COD","Democratic Republic of the Congo",41346
+2007,"COG","Congo",3897
+2007,"COK","Cook Islands",0
+2007,"COL","Colombia",723
+2007,"COM","Comoros",54
+2007,"CPV","Cape Verde",1306
+2007,"CRI","Costa Rica",432
+2007,"CUB","Cuba",15026
+2007,"DJI","Djibouti",6276
+2007,"DMA","Dominica",17
+2007,"DOM","Dominican Republic",22203
+2007,"DZA","Algeria",871
+2007,"ECU","Ecuador",4267
+2007,"EGY","Egypt",325
+2007,"ERI","Eritrea",2214
+2007,"ETH","Ethiopia",306347
+2007,"FJI","Fiji",80
+2007,"FSM","Federated States of Micronesia",27
+2007,"GAB","Gabon",3221
+2007,"GEO","Georgia",9906
+2007,"GHA","Ghana",20993
+2007,"GIN","Guinea",7729
+2007,"GMB","The Gambia",3637
+2007,"GNB","Guinea-Bissau",2210
+2007,"GNQ","Equatorial Guinea",0
+2007,"GRD","Grenada",270
+2007,"GTM","Guatemala",15906
+2007,"GUY","Guyana",26284
+2007,"HND","Honduras",12695
+2007,"HRV","Croatia",50
+2007,"HTI","Haiti",107360
+2007,"IDN","Indonesia",40638
+2007,"IND","India",276423
+2007,"IRN","Iran",1454
+2007,"IRQ","Iraq",17
+2007,"JAM","Jamaica",11183
+2007,"JOR","Jordan",577
+2007,"KAZ","Kazakhstan",5154
+2007,"KEN","Kenya",263171
+2007,"KGZ","Kyrgyzstan",10003
+2007,"KHM","Cambodia",54220
+2007,"KIR","Kiribati",48
+2007,"KNA","Saint Kitts and Nevis",539
+2007,"KSV","Kosovo",1409
+2007,"LAO","Laos",5349
+2007,"LBN","Lebanon",391
+2007,"LBR","Liberia",8471
+2007,"LBY","Libya",1690
+2007,"LCA","Saint Lucia",252
+2007,"LKA","Sri Lanka",9006
+2007,"LSO","Lesotho",20657
+2007,"LTU","Lithuania",0
+2007,"LVA","Latvia",0
+2007,"MAR","Morocco",6245
+2007,"MDA","Moldova",8148
+2007,"MDG","Madagascar",10804
+2007,"MDV","Maldives",554
+2007,"MEX","Mexico",3838
+2007,"MHL","Marshall Islands",51
+2007,"MKD","Macedonia",2037
+2007,"MLI","Mali",31909
+2007,"MMR","Myanmar",18357
+2007,"MNE","Montenegro",237
+2007,"MNG","Mongolia",2019
+2007,"MOZ","Mozambique",211762
+2007,"MRT","Mauritania",947
+2007,"MSR","Montserrat",5
+2007,"MUS","Mauritius",1104
+2007,"MWI","Malawi",191919
+2007,"MYS","Malaysia",8
+2007,"MYT","Mayotte",0
+2007,"NAM","Namibia",94019
+2007,"NER","Niger",6442
+2007,"NGA","Nigeria",293562
+2007,"NIC","Nicaragua",10689
+2007,"NIU","Niue",41
+2007,"NPL","Nepal",14575
+2007,"NRU","Nauru",33
+2007,"PAK","Pakistan",21303
+2007,"PAN","Panama",69
+2007,"PER","Peru",11765
+2007,"PHL","Philippines",18102
+2007,"PLW","Palau",41
+2007,"PNG","Papua New Guinea",18904
+2007,"POL","Poland",0
+2007,"PRK","North Korea",1
+2007,"PRY","Paraguay",1507
+2007,"PSE","Palestine",138
+2007,"QZA","Unallocated/Unspecified",2263184
+2007,"ROU","Romania",7358
+2007,"RUS","Russia",75115
+2007,"RWA","Rwanda",54757
+2007,"SDN","Sudan",10658
+2007,"SEN","Senegal",9988
+2007,"SHN","Saint Helena",0
+2007,"SLB","Solomon Islands",565
+2007,"SLE","Sierra Leone",7382
+2007,"SLV","El Salvador",4080
+2007,"SOM","Somalia",1077
+2007,"SRB","Serbia",3241
+2007,"SSD","South Sudan",3464
+2007,"STP","Sao Tome and Principe",397
+2007,"SUR","Suriname",3155
+2007,"SWZ","Swaziland",24891
+2007,"SYC","Seychelles",0
+2007,"SYR","Syria",18
+2007,"TCD","Chad",3769
+2007,"TGO","Togo",1144
+2007,"THA","Thailand",56511
+2007,"TJK","Tajikistan",7706
+2007,"TKL","Tokelau",3
+2007,"TKM","Turkmenistan",210
+2007,"TLS","Timor-Leste",1871
+2007,"TON","Tonga",44
+2007,"TUN","Tunisia",5427
+2007,"TUR","Turkey",276
+2007,"TUV","Tuvalu",41
+2007,"TZA","Tanzania",218905
+2007,"UGA","Uganda",302743
+2007,"UKR","Ukraine",47746
+2007,"URY","Uruguay",2
+2007,"UZB","Uzbekistan",10939
+2007,"VCT","Saint Vincent and the Grenadines",225
+2007,"VEN","Venezuela",1
+2007,"VNM","Vietnam",64781
+2007,"VUT","Vanuatu",96
+2007,"WLD","Global",1223914
+2007,"WLF","Wallis and Futuna Islands",0
+2007,"WSM","Samoa",51
+2007,"YEM","Yemen",59
+2007,"ZAF","South Africa",423874
+2007,"ZMB","Zambia",204339
+2007,"ZWE","Zimbabwe",143622
+2008,"AFG","Afghanistan",2933
+2008,"AGO","Angola",33411
+2008,"ALB","Albania",2313
+2008,"ARG","Argentina",8458
+2008,"ARM","Armenia",3181
+2008,"ATG","Antigua and Barbuda",4
+2008,"AZE","Azerbaijan",277
+2008,"BDI","Burundi",23169
+2008,"BEN","Benin",5333
+2008,"BFA","Burkina Faso",41749
+2008,"BGD","Bangladesh",20411
+2008,"BGR","Bulgaria",2277
+2008,"BIH","Bosnia and Herzegovina",4484
+2008,"BLR","Belarus",3897
+2008,"BLZ","Belize",297
+2008,"BOL","Bolivia",5666
+2008,"BRA","Brazil",33908
+2008,"BTN","Bhutan",181
+2008,"BWA","Botswana",234048
+2008,"CAF","Central African Republic",20257
+2008,"CHL","Chile",2205
+2008,"CHN","China",135762
+2008,"CIV","Cote d'Ivoire",18528
+2008,"CMR","Cameroon",24240
+2008,"COD","Democratic Republic of the Congo",76829
+2008,"COG","Congo",7277
+2008,"COK","Cook Islands",0
+2008,"COL","Colombia",1267
+2008,"COM","Comoros",74
+2008,"CPV","Cape Verde",1683
+2008,"CRI","Costa Rica",373
+2008,"CUB","Cuba",5861
+2008,"DJI","Djibouti",6673
+2008,"DMA","Dominica",155
+2008,"DOM","Dominican Republic",15838
+2008,"DZA","Algeria",1681
+2008,"ECU","Ecuador",5556
+2008,"EGY","Egypt",3472
+2008,"ERI","Eritrea",5142
+2008,"ETH","Ethiopia",373434
+2008,"FJI","Fiji",97
+2008,"FSM","Federated States of Micronesia",59
+2008,"GAB","Gabon",2298
+2008,"GEO","Georgia",5867
+2008,"GHA","Ghana",23329
+2008,"GIN","Guinea",8281
+2008,"GMB","The Gambia",3598
+2008,"GNB","Guinea-Bissau",2125
+2008,"GNQ","Equatorial Guinea",2
+2008,"GRD","Grenada",447
+2008,"GTM","Guatemala",30693
+2008,"GUY","Guyana",29789
+2008,"HND","Honduras",15534
+2008,"HTI","Haiti",108352
+2008,"IDN","Indonesia",42779
+2008,"IND","India",238597
+2008,"IRN","Iran",4984
+2008,"IRQ","Iraq",18
+2008,"JAM","Jamaica",9766
+2008,"JOR","Jordan",129
+2008,"KAZ","Kazakhstan",17476
+2008,"KEN","Kenya",354476
+2008,"KGZ","Kyrgyzstan",16141
+2008,"KHM","Cambodia",43265
+2008,"KIR","Kiribati",543
+2008,"KNA","Saint Kitts and Nevis",635
+2008,"KSV","Kosovo",590
+2008,"LAO","Laos",5411
+2008,"LBN","Lebanon",21
+2008,"LBR","Liberia",10869
+2008,"LBY","Libya",2718
+2008,"LCA","Saint Lucia",631
+2008,"LKA","Sri Lanka",17135
+2008,"LSO","Lesotho",41817
+2008,"LTU","Lithuania",0
+2008,"LVA","Latvia",0
+2008,"MAR","Morocco",5288
+2008,"MDA","Moldova",2289
+2008,"MDG","Madagascar",5417
+2008,"MDV","Maldives",0
+2008,"MEX","Mexico",5117
+2008,"MHL","Marshall Islands",84
+2008,"MKD","Macedonia",3156
+2008,"MLI","Mali",31900
+2008,"MMR","Myanmar",20223
+2008,"MNE","Montenegro",1203
+2008,"MNG","Mongolia",1863
+2008,"MOZ","Mozambique",267397
+2008,"MRT","Mauritania",4757
+2008,"MSR","Montserrat",5
+2008,"MUS","Mauritius",6
+2008,"MWI","Malawi",202605
+2008,"MYS","Malaysia",95
+2008,"MYT","Mayotte",0
+2008,"NAM","Namibia",80778
+2008,"NER","Niger",4777
+2008,"NGA","Nigeria",449230
+2008,"NIC","Nicaragua",13866
+2008,"NIU","Niue",67
+2008,"NPL","Nepal",22512
+2008,"NRU","Nauru",53
+2008,"PAK","Pakistan",17610
+2008,"PAN","Panama",109
+2008,"PER","Peru",13335
+2008,"PHL","Philippines",11329
+2008,"PLW","Palau",67
+2008,"PNG","Papua New Guinea",9199
+2008,"POL","Poland",0
+2008,"PRK","North Korea",0
+2008,"PRY","Paraguay",3122
+2008,"PSE","Palestine",2039
+2008,"QZA","Unallocated/Unspecified",2186525
+2008,"ROU","Romania",6123
+2008,"RUS","Russia",87017
+2008,"RWA","Rwanda",66654
+2008,"SDN","Sudan",17075
+2008,"SEN","Senegal",15151
+2008,"SHN","Saint Helena",35
+2008,"SLB","Solomon Islands",41
+2008,"SLE","Sierra Leone",13486
+2008,"SLV","El Salvador",3175
+2008,"SOM","Somalia",870
+2008,"SRB","Serbia",4253
+2008,"SSD","South Sudan",6097
+2008,"STP","Sao Tome and Principe",525
+2008,"SUR","Suriname",454
+2008,"SWZ","Swaziland",26841
+2008,"SYC","Seychelles",0
+2008,"SYR","Syria",144
+2008,"TCD","Chad",6180
+2008,"TGO","Togo",2035
+2008,"THA","Thailand",51585
+2008,"TJK","Tajikistan",5574
+2008,"TKL","Tokelau",4
+2008,"TKM","Turkmenistan",653
+2008,"TLS","Timor-Leste",1274
+2008,"TON","Tonga",237
+2008,"TUN","Tunisia",857
+2008,"TUR","Turkey",5
+2008,"TUV","Tuvalu",67
+2008,"TZA","Tanzania",299290
+2008,"UGA","Uganda",275418
+2008,"UKR","Ukraine",58953
+2008,"URY","Uruguay",3
+2008,"UZB","Uzbekistan",6571
+2008,"VCT","Saint Vincent and the Grenadines",468
+2008,"VEN","Venezuela",8
+2008,"VNM","Vietnam",60775
+2008,"VUT","Vanuatu",953
+2008,"WLD","Global",1380068
+2008,"WLF","Wallis and Futuna Islands",0
+2008,"WSM","Samoa",110
+2008,"YEM","Yemen",2572
+2008,"ZAF","South Africa",524766
+2008,"ZMB","Zambia",337503
+2008,"ZWE","Zimbabwe",82064
+2009,"AFG","Afghanistan",5294
+2009,"AGO","Angola",25926
+2009,"ALB","Albania",1963
+2009,"ARG","Argentina",558
+2009,"ARM","Armenia",6764
+2009,"ATG","Antigua and Barbuda",324
+2009,"AZE","Azerbaijan",849
+2009,"BDI","Burundi",36298
+2009,"BEN","Benin",5874
+2009,"BFA","Burkina Faso",35903
+2009,"BGD","Bangladesh",19666
+2009,"BGR","Bulgaria",0
+2009,"BIH","Bosnia and Herzegovina",3741
+2009,"BLR","Belarus",10326
+2009,"BLZ","Belize",254
+2009,"BOL","Bolivia",8006
+2009,"BRA","Brazil",10422
+2009,"BTN","Bhutan",114
+2009,"BWA","Botswana",242058
+2009,"CAF","Central African Republic",4968
+2009,"CHL","Chile",74
+2009,"CHN","China",169739
+2009,"CIV","Cote d'Ivoire",80020
+2009,"CMR","Cameroon",33943
+2009,"COD","Democratic Republic of the Congo",86281
+2009,"COG","Congo",4721
+2009,"COK","Cook Islands",0
+2009,"COL","Colombia",294
+2009,"COM","Comoros",96
+2009,"CPV","Cape Verde",727
+2009,"CRI","Costa Rica",78
+2009,"CUB","Cuba",13567
+2009,"DJI","Djibouti",8085
+2009,"DMA","Dominica",337
+2009,"DOM","Dominican Republic",11723
+2009,"DZA","Algeria",1570
+2009,"ECU","Ecuador",4866
+2009,"EGY","Egypt",3498
+2009,"ERI","Eritrea",12891
+2009,"ETH","Ethiopia",235828
+2009,"FJI","Fiji",17
+2009,"FSM","Federated States of Micronesia",20
+2009,"GAB","Gabon",4023
+2009,"GEO","Georgia",9370
+2009,"GHA","Ghana",14032
+2009,"GIN","Guinea",9042
+2009,"GMB","The Gambia",7044
+2009,"GNB","Guinea-Bissau",6819
+2009,"GNQ","Equatorial Guinea",0
+2009,"GRD","Grenada",420
+2009,"GTM","Guatemala",10318
+2009,"GUY","Guyana",22905
+2009,"HND","Honduras",14069
+2009,"HTI","Haiti",113972
+2009,"IDN","Indonesia",63727
+2009,"IND","India",365733
+2009,"IRN","Iran",4050
+2009,"IRQ","Iraq",5
+2009,"JAM","Jamaica",3674
+2009,"JOR","Jordan",3042
+2009,"KAZ","Kazakhstan",6347
+2009,"KEN","Kenya",421398
+2009,"KGZ","Kyrgyzstan",6138
+2009,"KHM","Cambodia",61885
+2009,"KIR","Kiribati",49
+2009,"KNA","Saint Kitts and Nevis",476
+2009,"KSV","Kosovo",891
+2009,"LAO","Laos",9616
+2009,"LBN","Lebanon",13
+2009,"LBR","Liberia",15179
+2009,"LBY","Libya",2741
+2009,"LCA","Saint Lucia",709
+2009,"LKA","Sri Lanka",16091
+2009,"LSO","Lesotho",36274
+2009,"LTU","Lithuania",0
+2009,"MAR","Morocco",6392
+2009,"MDA","Moldova",3892
+2009,"MDG","Madagascar",6998
+2009,"MDV","Maldives",641
+2009,"MEX","Mexico",4635
+2009,"MHL","Marshall Islands",53
+2009,"MKD","Macedonia",1083
+2009,"MLI","Mali",29160
+2009,"MMR","Myanmar",22829
+2009,"MNE","Montenegro",468
+2009,"MNG","Mongolia",71
+2009,"MOZ","Mozambique",266620
+2009,"MRT","Mauritania",66
+2009,"MSR","Montserrat",0
+2009,"MUS","Mauritius",272
+2009,"MWI","Malawi",154554
+2009,"MYS","Malaysia",20
+2009,"MYT","Mayotte",482
+2009,"NAM","Namibia",121794
+2009,"NER","Niger",12536
+2009,"NGA","Nigeria",430948
+2009,"NIC","Nicaragua",18437
+2009,"NIU","Niue",42
+2009,"NPL","Nepal",18431
+2009,"NRU","Nauru",33
+2009,"PAK","Pakistan",8534
+2009,"PAN","Panama",172
+2009,"PER","Peru",22166
+2009,"PHL","Philippines",13929
+2009,"PLW","Palau",42
+2009,"PNG","Papua New Guinea",8671
+2009,"PRK","North Korea",0
+2009,"PRY","Paraguay",4821
+2009,"PSE","Palestine",252
+2009,"QZA","Unallocated/Unspecified",2017877
+2009,"ROU","Romania",3994
+2009,"RUS","Russia",52699
+2009,"RWA","Rwanda",135758
+2009,"SDN","Sudan",21401
+2009,"SEN","Senegal",18618
+2009,"SHN","Saint Helena",20
+2009,"SLB","Solomon Islands",290
+2009,"SLE","Sierra Leone",15717
+2009,"SLV","El Salvador",16539
+2009,"SOM","Somalia",495
+2009,"SRB","Serbia",6801
+2009,"SSD","South Sudan",8879
+2009,"STP","Sao Tome and Principe",148
+2009,"SUR","Suriname",224
+2009,"SWZ","Swaziland",31304
+2009,"SYC","Seychelles",6
+2009,"SYR","Syria",26
+2009,"TCD","Chad",9845
+2009,"TGO","Togo",3975
+2009,"THA","Thailand",18620
+2009,"TJK","Tajikistan",14595
+2009,"TKL","Tokelau",3
+2009,"TKM","Turkmenistan",598
+2009,"TLS","Timor-Leste",2558
+2009,"TON","Tonga",54
+2009,"TUN","Tunisia",2872
+2009,"TUR","Turkey",2
+2009,"TUV","Tuvalu",44
+2009,"TZA","Tanzania",296533
+2009,"UGA","Uganda",323024
+2009,"UKR","Ukraine",58162
+2009,"URY","Uruguay",3
+2009,"UZB","Uzbekistan",11001
+2009,"VCT","Saint Vincent and the Grenadines",551
+2009,"VEN","Venezuela",119
+2009,"VNM","Vietnam",53512
+2009,"VUT","Vanuatu",637
+2009,"WLD","Global",1449560
+2009,"WLF","Wallis and Futuna Islands",0
+2009,"WSM","Samoa",41
+2009,"YEM","Yemen",4987
+2009,"ZAF","South Africa",673488
+2009,"ZMB","Zambia",111117
+2009,"ZWE","Zimbabwe",125835
+2010,"AFG","Afghanistan",6772
+2010,"AGO","Angola",28844
+2010,"ALB","Albania",849
+2010,"ARG","Argentina",440
+2010,"ARM","Armenia",2202
+2010,"ATG","Antigua and Barbuda",145
+2010,"AZE","Azerbaijan",721
+2010,"BDI","Burundi",21379
+2010,"BEN","Benin",14439
+2010,"BFA","Burkina Faso",36958
+2010,"BGD","Bangladesh",8168
+2010,"BGR","Bulgaria",8933
+2010,"BIH","Bosnia and Herzegovina",7314
+2010,"BLR","Belarus",7712
+2010,"BLZ","Belize",734
+2010,"BOL","Bolivia",3828
+2010,"BRA","Brazil",11225
+2010,"BTN","Bhutan",960
+2010,"BWA","Botswana",119636
+2010,"CAF","Central African Republic",10590
+2010,"CHL","Chile",119
+2010,"CHN","China",95010
+2010,"CIV","Cote d'Ivoire",115039
+2010,"CMR","Cameroon",21462
+2010,"COD","Democratic Republic of the Congo",82744
+2010,"COG","Congo",10843
+2010,"COK","Cook Islands",0
+2010,"COL","Colombia",336
+2010,"COM","Comoros",75
+2010,"CPV","Cape Verde",2407
+2010,"CRI","Costa Rica",106
+2010,"CUB","Cuba",13519
+2010,"DJI","Djibouti",3205
+2010,"DMA","Dominica",156
+2010,"DOM","Dominican Republic",24449
+2010,"DZA","Algeria",1326
+2010,"ECU","Ecuador",4009
+2010,"EGY","Egypt",2640
+2010,"ERI","Eritrea",18110
+2010,"ETH","Ethiopia",595609
+2010,"FJI","Fiji",39
+2010,"FSM","Federated States of Micronesia",113
+2010,"GAB","Gabon",2700
+2010,"GEO","Georgia",10880
+2010,"GHA","Ghana",17290
+2010,"GIN","Guinea",7337
+2010,"GMB","The Gambia",6364
+2010,"GNB","Guinea-Bissau",8283
+2010,"GNQ","Equatorial Guinea",0
+2010,"GRD","Grenada",165
+2010,"GTM","Guatemala",14452
+2010,"GUY","Guyana",23695
+2010,"HND","Honduras",12054
+2010,"HTI","Haiti",145551
+2010,"IDN","Indonesia",56103
+2010,"IND","India",291285
+2010,"IRN","Iran",1223
+2010,"IRQ","Iraq",131
+2010,"JAM","Jamaica",11655
+2010,"JOR","Jordan",63
+2010,"KAZ","Kazakhstan",5433
+2010,"KEN","Kenya",471644
+2010,"KGZ","Kyrgyzstan",12154
+2010,"KHM","Cambodia",49101
+2010,"KIR","Kiribati",82
+2010,"KNA","Saint Kitts and Nevis",139
+2010,"KSV","Kosovo",2811
+2010,"LAO","Laos",5960
+2010,"LBN","Lebanon",11
+2010,"LBR","Liberia",19008
+2010,"LBY","Libya",754
+2010,"LCA","Saint Lucia",222
+2010,"LKA","Sri Lanka",5399
+2010,"LSO","Lesotho",59324
+2010,"LTU","Lithuania",0
+2010,"LVA","Latvia",0
+2010,"MAR","Morocco",8253
+2010,"MDA","Moldova",12599
+2010,"MDG","Madagascar",8341
+2010,"MDV","Maldives",218
+2010,"MEX","Mexico",9849
+2010,"MHL","Marshall Islands",88
+2010,"MKD","Macedonia",1687
+2010,"MLI","Mali",23363
+2010,"MMR","Myanmar",29690
+2010,"MNE","Montenegro",1425
+2010,"MNG","Mongolia",2429
+2010,"MOZ","Mozambique",346749
+2010,"MRT","Mauritania",143
+2010,"MSR","Montserrat",93
+2010,"MUS","Mauritius",2124
+2010,"MWI","Malawi",145019
+2010,"MYS","Malaysia",14
+2010,"MYT","Mayotte",755
+2010,"NAM","Namibia",172361
+2010,"NER","Niger",3502
+2010,"NGA","Nigeria",563115
+2010,"NIC","Nicaragua",20989
+2010,"NIU","Niue",70
+2010,"NPL","Nepal",18247
+2010,"NRU","Nauru",55
+2010,"PAK","Pakistan",4802
+2010,"PAN","Panama",423
+2010,"PER","Peru",15945
+2010,"PHL","Philippines",10626
+2010,"PLW","Palau",70
+2010,"PNG","Papua New Guinea",16736
+2010,"PRK","North Korea",0
+2010,"PRY","Paraguay",5293
+2010,"PSE","Palestine",2063
+2010,"QZA","Unallocated/Unspecified",2512474
+2010,"ROU","Romania",2638
+2010,"RUS","Russia",37954
+2010,"RWA","Rwanda",244075
+2010,"SDN","Sudan",13152
+2010,"SEN","Senegal",9727
+2010,"SHN","Saint Helena",0
+2010,"SLB","Solomon Islands",132
+2010,"SLE","Sierra Leone",25129
+2010,"SLV","El Salvador",13041
+2010,"SOM","Somalia",1218
+2010,"SRB","Serbia",4874
+2010,"SSD","South Sudan",7719
+2010,"STP","Sao Tome and Principe",133
+2010,"SUR","Suriname",614
+2010,"SWZ","Swaziland",76029
+2010,"SYC","Seychelles",0
+2010,"SYR","Syria",9
+2010,"TCD","Chad",16127
+2010,"TGO","Togo",1817
+2010,"THA","Thailand",49415
+2010,"TJK","Tajikistan",14503
+2010,"TKL","Tokelau",4
+2010,"TKM","Turkmenistan",45
+2010,"TLS","Timor-Leste",716
+2010,"TON","Tonga",73
+2010,"TUN","Tunisia",4211
+2010,"TUR","Turkey",5
+2010,"TUV","Tuvalu",71
+2010,"TZA","Tanzania",506828
+2010,"UGA","Uganda",354583
+2010,"UKR","Ukraine",54782
+2010,"URY","Uruguay",78
+2010,"UZB","Uzbekistan",5973
+2010,"VCT","Saint Vincent and the Grenadines",379
+2010,"VEN","Venezuela",7
+2010,"VNM","Vietnam",116719
+2010,"VUT","Vanuatu",739
+2010,"WLD","Global",1788517
+2010,"WLF","Wallis and Futuna Islands",0
+2010,"WSM","Samoa",65
+2010,"YEM","Yemen",5824
+2010,"ZAF","South Africa",802853
+2010,"ZMB","Zambia",290018
+2010,"ZWE","Zimbabwe",152503
+2011,"AFG","Afghanistan",3252
+2011,"AGO","Angola",23213
+2011,"ALB","Albania",605
+2011,"ARG","Argentina",12194
+2011,"ARM","Armenia",479
+2011,"ATG","Antigua and Barbuda",398
+2011,"AZE","Azerbaijan",10788
+2011,"BDI","Burundi",30495
+2011,"BEN","Benin",12765
+2011,"BFA","Burkina Faso",18534
+2011,"BGD","Bangladesh",10062
+2011,"BGR","Bulgaria",9063
+2011,"BIH","Bosnia and Herzegovina",3405
+2011,"BLR","Belarus",10797
+2011,"BLZ","Belize",1168
+2011,"BOL","Bolivia",9165
+2011,"BRA","Brazil",6541
+2011,"BTN","Bhutan",313
+2011,"BWA","Botswana",132930
+2011,"CAF","Central African Republic",8986
+2011,"CHL","Chile",104
+2011,"CHN","China",128461
+2011,"CIV","Cote d'Ivoire",97022
+2011,"CMR","Cameroon",18935
+2011,"COD","Democratic Republic of the Congo",54197
+2011,"COG","Congo",10860
+2011,"COK","Cook Islands",295
+2011,"COL","Colombia",1770
+2011,"COM","Comoros",1225
+2011,"CPV","Cape Verde",2820
+2011,"CRI","Costa Rica",49
+2011,"CUB","Cuba",10975
+2011,"DJI","Djibouti",3927
+2011,"DMA","Dominica",13
+2011,"DOM","Dominican Republic",35037
+2011,"DZA","Algeria",799
+2011,"ECU","Ecuador",1248
+2011,"EGY","Egypt",1382
+2011,"ERI","Eritrea",140
+2011,"ETH","Ethiopia",517029
+2011,"FJI","Fiji",31
+2011,"FSM","Federated States of Micronesia",409
+2011,"GAB","Gabon",2820
+2011,"GEO","Georgia",11613
+2011,"GHA","Ghana",75260
+2011,"GIN","Guinea",10294
+2011,"GMB","The Gambia",7940
+2011,"GNB","Guinea-Bissau",5534
+2011,"GNQ","Equatorial Guinea",0
+2011,"GRD","Grenada",415
+2011,"GTM","Guatemala",7185
+2011,"GUY","Guyana",21045
+2011,"HND","Honduras",17818
+2011,"HTI","Haiti",180038
+2011,"IDN","Indonesia",74543
+2011,"IND","India",286675
+2011,"IRN","Iran",8038
+2011,"IRQ","Iraq",47
+2011,"JAM","Jamaica",21076
+2011,"JOR","Jordan",1143
+2011,"KAZ","Kazakhstan",9576
+2011,"KEN","Kenya",575416
+2011,"KGZ","Kyrgyzstan",13024
+2011,"KHM","Cambodia",77411
+2011,"KIR","Kiribati",391
+2011,"KSV","Kosovo",2315
+2011,"LAO","Laos",2352
+2011,"LBN","Lebanon",57
+2011,"LBR","Liberia",21445
+2011,"LBY","Libya",2711
+2011,"LCA","Saint Lucia",417
+2011,"LKA","Sri Lanka",1073
+2011,"LSO","Lesotho",63914
+2011,"LTU","Lithuania",0
+2011,"LVA","Latvia",0
+2011,"MAR","Morocco",9694
+2011,"MDA","Moldova",5834
+2011,"MDG","Madagascar",6289
+2011,"MDV","Maldives",16
+2011,"MEX","Mexico",15986
+2011,"MHL","Marshall Islands",400
+2011,"MKD","Macedonia",4867
+2011,"MLI","Mali",23756
+2011,"MMR","Myanmar",14809
+2011,"MNE","Montenegro",1721
+2011,"MNG","Mongolia",635
+2011,"MOZ","Mozambique",361582
+2011,"MRT","Mauritania",469
+2011,"MSR","Montserrat",5
+2011,"MUS","Mauritius",125
+2011,"MWI","Malawi",104172
+2011,"MYS","Malaysia",1428
+2011,"NAM","Namibia",124520
+2011,"NER","Niger",12172
+2011,"NGA","Nigeria",523602
+2011,"NIC","Nicaragua",16766
+2011,"NIU","Niue",377
+2011,"NPL","Nepal",19063
+2011,"NRU","Nauru",361
+2011,"PAK","Pakistan",18665
+2011,"PAN","Panama",30
+2011,"PER","Peru",5566
+2011,"PHL","Philippines",7877
+2011,"PLW","Palau",377
+2011,"PNG","Papua New Guinea",61643
+2011,"PRK","North Korea",0
+2011,"PRY","Paraguay",3631
+2011,"PSE","Palestine",159
+2011,"QZA","Unallocated/Unspecified",2191082
+2011,"ROU","Romania",1270
+2011,"RUS","Russia",14017
+2011,"RWA","Rwanda",291482
+2011,"SDN","Sudan",39527
+2011,"SEN","Senegal",36118
+2011,"SHN","Saint Helena",0
+2011,"SLB","Solomon Islands",382
+2011,"SLE","Sierra Leone",18808
+2011,"SLV","El Salvador",8791
+2011,"SOM","Somalia",2017
+2011,"SRB","Serbia",4784
+2011,"SSD","South Sudan",10035
+2011,"STP","Sao Tome and Principe",687
+2011,"SUR","Suriname",1497
+2011,"SWZ","Swaziland",68058
+2011,"SYC","Seychelles",0
+2011,"SYR","Syria",2
+2011,"TCD","Chad",19786
+2011,"TGO","Togo",10226
+2011,"THA","Thailand",58760
+2011,"TJK","Tajikistan",6809
+2011,"TKL","Tokelau",5
+2011,"TKM","Turkmenistan",511
+2011,"TLS","Timor-Leste",1422
+2011,"TON","Tonga",383
+2011,"TUN","Tunisia",488
+2011,"TUR","Turkey",0
+2011,"TUV","Tuvalu",378
+2011,"TZA","Tanzania",450955
+2011,"UGA","Uganda",389513
+2011,"UKR","Ukraine",63903
+2011,"URY","Uruguay",45
+2011,"UZB","Uzbekistan",12185
+2011,"VCT","Saint Vincent and the Grenadines",494
+2011,"VEN","Venezuela",0
+2011,"VNM","Vietnam",120099
+2011,"VUT","Vanuatu",468
+2011,"WLD","Global",2164502
+2011,"WLF","Wallis and Futuna Islands",0
+2011,"WSM","Samoa",377
+2011,"YEM","Yemen",830
+2011,"ZAF","South Africa",832786
+2011,"ZMB","Zambia",386354
+2011,"ZWE","Zimbabwe",75677
+2012,"AFG","Afghanistan",4700
+2012,"AGO","Angola",22019
+2012,"ALB","Albania",6
+2012,"ARG","Argentina",4498
+2012,"ARM","Armenia",7382
+2012,"ATG","Antigua and Barbuda",4
+2012,"AZE","Azerbaijan",4380
+2012,"BDI","Burundi",25540
+2012,"BEN","Benin",5530
+2012,"BFA","Burkina Faso",29612
+2012,"BGD","Bangladesh",7934
+2012,"BGR","Bulgaria",4470
+2012,"BIH","Bosnia and Herzegovina",31
+2012,"BLR","Belarus",8811
+2012,"BLZ","Belize",1846
+2012,"BOL","Bolivia",1119
+2012,"BRA","Brazil",11164
+2012,"BTN","Bhutan",1
+2012,"BWA","Botswana",111745
+2012,"CAF","Central African Republic",5794
+2012,"CHL","Chile",112
+2012,"CHN","China",125467
+2012,"CIV","Cote d'Ivoire",110507
+2012,"CMR","Cameroon",42170
+2012,"COD","Democratic Republic of the Congo",53863
+2012,"COG","Congo",4249
+2012,"COK","Cook Islands",0
+2012,"COL","Colombia",453
+2012,"COM","Comoros",987
+2012,"CPV","Cape Verde",340
+2012,"CRI","Costa Rica",134
+2012,"CUB","Cuba",11305
+2012,"DJI","Djibouti",6002
+2012,"DMA","Dominica",86
+2012,"DOM","Dominican Republic",44146
+2012,"DZA","Algeria",247
+2012,"ECU","Ecuador",770
+2012,"EGY","Egypt",2352
+2012,"ERI","Eritrea",23550
+2012,"ETH","Ethiopia",410449
+2012,"FJI","Fiji",171
+2012,"FSM","Federated States of Micronesia",14
+2012,"GAB","Gabon",1991
+2012,"GEO","Georgia",14371
+2012,"GHA","Ghana",34755
+2012,"GIN","Guinea",6457
+2012,"GMB","The Gambia",7115
+2012,"GNB","Guinea-Bissau",2085
+2012,"GNQ","Equatorial Guinea",1
+2012,"GRD","Grenada",660
+2012,"GTM","Guatemala",9417
+2012,"GUY","Guyana",19148
+2012,"HND","Honduras",8477
+2012,"HTI","Haiti",153141
+2012,"HUN","Hungary",0
+2012,"IDN","Indonesia",67709
+2012,"IND","India",51909
+2012,"IRN","Iran",2350
+2012,"IRQ","Iraq",2
+2012,"JAM","Jamaica",16613
+2012,"JOR","Jordan",106
+2012,"KAZ","Kazakhstan",4417
+2012,"KEN","Kenya",730057
+2012,"KGZ","Kyrgyzstan",12156
+2012,"KHM","Cambodia",15082
+2012,"KIR","Kiribati",12
+2012,"KSV","Kosovo",1284
+2012,"LAO","Laos",2099
+2012,"LBN","Lebanon",29
+2012,"LBR","Liberia",18861
+2012,"LBY","Libya",526
+2012,"LCA","Saint Lucia",667
+2012,"LKA","Sri Lanka",1966
+2012,"LSO","Lesotho",66576
+2012,"MAR","Morocco",3090
+2012,"MDA","Moldova",7105
+2012,"MDG","Madagascar",4008
+2012,"MDV","Maldives",362
+2012,"MEX","Mexico",17076
+2012,"MHL","Marshall Islands",13
+2012,"MKD","Macedonia",1910
+2012,"MLI","Mali",43779
+2012,"MMR","Myanmar",34422
+2012,"MNE","Montenegro",908
+2012,"MNG","Mongolia",1612
+2012,"MOZ","Mozambique",335330
+2012,"MRT","Mauritania",1081
+2012,"MSR","Montserrat",78
+2012,"MUS","Mauritius",4
+2012,"MWI","Malawi",110996
+2012,"MYS","Malaysia",1657
+2012,"NAM","Namibia",5172
+2012,"NER","Niger",8510
+2012,"NGA","Nigeria",607197
+2012,"NIC","Nicaragua",19398
+2012,"NIU","Niue",11
+2012,"NPL","Nepal",18104
+2012,"NRU","Nauru",8
+2012,"PAK","Pakistan",4945
+2012,"PAN","Panama",1554
+2012,"PER","Peru",2749
+2012,"PHL","Philippines",15974
+2012,"PLW","Palau",11
+2012,"PNG","Papua New Guinea",93801
+2012,"PRK","North Korea",0
+2012,"PRY","Paraguay",181
+2012,"PSE","Palestine",1449
+2012,"QZA","Unallocated/Unspecified",2069111
+2012,"ROU","Romania",0
+2012,"RWA","Rwanda",282475
+2012,"SDN","Sudan",18468
+2012,"SEN","Senegal",25769
+2012,"SHN","Saint Helena",0
+2012,"SLB","Solomon Islands",69
+2012,"SLE","Sierra Leone",21052
+2012,"SLV","El Salvador",8300
+2012,"SOM","Somalia",1473
+2012,"SRB","Serbia",3437
+2012,"SSD","South Sudan",15756
+2012,"STP","Sao Tome and Principe",520
+2012,"SUR","Suriname",825
+2012,"SWZ","Swaziland",59931
+2012,"SYC","Seychelles",0
+2012,"SYR","Syria",1
+2012,"TCD","Chad",5636
+2012,"TGO","Togo",2446
+2012,"THA","Thailand",24204
+2012,"TJK","Tajikistan",20913
+2012,"TKL","Tokelau",1
+2012,"TKM","Turkmenistan",470
+2012,"TLS","Timor-Leste",4009
+2012,"TON","Tonga",9
+2012,"TUN","Tunisia",662
+2012,"TUR","Turkey",0
+2012,"TUV","Tuvalu",11
+2012,"TZA","Tanzania",398328
+2012,"UGA","Uganda",460701
+2012,"UKR","Ukraine",85995
+2012,"URY","Uruguay",0
+2012,"UZB","Uzbekistan",26125
+2012,"VCT","Saint Vincent and the Grenadines",653
+2012,"VEN","Venezuela",375
+2012,"VNM","Vietnam",89806
+2012,"VUT","Vanuatu",1430
+2012,"WLD","Global",2128746
+2012,"WLF","Wallis and Futuna Islands",0
+2012,"WSM","Samoa",10
+2012,"YEM","Yemen",1014
+2012,"ZAF","South Africa",738272
+2012,"ZMB","Zambia",375385
+2012,"ZWE","Zimbabwe",98676
+2013,"AFG","Afghanistan",4756
+2013,"AGO","Angola",23302
+2013,"AIA","Anguilla",5
+2013,"ALB","Albania",0
+2013,"ARG","Argentina",10420
+2013,"ARM","Armenia",4142
+2013,"ATG","Antigua and Barbuda",0
+2013,"AZE","Azerbaijan",6377
+2013,"BDI","Burundi",26917
+2013,"BEN","Benin",3233
+2013,"BFA","Burkina Faso",43053
+2013,"BGD","Bangladesh",9429
+2013,"BGR","Bulgaria",1583
+2013,"BIH","Bosnia and Herzegovina",21
+2013,"BLR","Belarus",8274
+2013,"BLZ","Belize",2424
+2013,"BOL","Bolivia",1166
+2013,"BRA","Brazil",16968
+2013,"BTN","Bhutan",3
+2013,"BWA","Botswana",114230
+2013,"CAF","Central African Republic",6563
+2013,"CHL","Chile",55
+2013,"CHN","China",21899
+2013,"CIV","Cote d'Ivoire",111506
+2013,"CMR","Cameroon",57640
+2013,"COD","Democratic Republic of the Congo",73491
+2013,"COG","Congo",7592
+2013,"COK","Cook Islands",0
+2013,"COL","Colombia",985
+2013,"COM","Comoros",515
+2013,"CPV","Cape Verde",3484
+2013,"CRI","Costa Rica",47
+2013,"CUB","Cuba",13106
+2013,"DJI","Djibouti",3750
+2013,"DMA","Dominica",288
+2013,"DOM","Dominican Republic",49307
+2013,"DZA","Algeria",85
+2013,"ECU","Ecuador",458
+2013,"EGY","Egypt",870
+2013,"ERI","Eritrea",13652
+2013,"ETH","Ethiopia",445891
+2013,"FJI","Fiji",3
+2013,"FSM","Federated States of Micronesia",22
+2013,"GAB","Gabon",2788
+2013,"GEO","Georgia",15155
+2013,"GHA","Ghana",26236
+2013,"GIN","Guinea",15046
+2013,"GMB","The Gambia",11890
+2013,"GNB","Guinea-Bissau",198
+2013,"GNQ","Equatorial Guinea",0
+2013,"GRD","Grenada",460
+2013,"GTM","Guatemala",5854
+2013,"GUY","Guyana",13314
+2013,"HND","Honduras",16155
+2013,"HTI","Haiti",167772
+2013,"HUN","Hungary",0
+2013,"IDN","Indonesia",77884
+2013,"IND","India",72570
+2013,"IRN","Iran",1080
+2013,"IRQ","Iraq",2
+2013,"JAM","Jamaica",16455
+2013,"JOR","Jordan",962
+2013,"KAZ","Kazakhstan",8925
+2013,"KEN","Kenya",791500
+2013,"KGZ","Kyrgyzstan",14755
+2013,"KHM","Cambodia",43881
+2013,"KIR","Kiribati",17
+2013,"KSV","Kosovo",1021
+2013,"LAO","Laos",2401
+2013,"LBN","Lebanon",5
+2013,"LBR","Liberia",19546
+2013,"LBY","Libya",1644
+2013,"LCA","Saint Lucia",498
+2013,"LKA","Sri Lanka",2567
+2013,"LSO","Lesotho",35499
+2013,"MAR","Morocco",1301
+2013,"MDA","Moldova",7530
+2013,"MDG","Madagascar",4690
+2013,"MDV","Maldives",21
+2013,"MEX","Mexico",17566
+2013,"MHL","Marshall Islands",11
+2013,"MKD","Macedonia",2769
+2013,"MLI","Mali",13791
+2013,"MMR","Myanmar",37668
+2013,"MNE","Montenegro",714
+2013,"MNG","Mongolia",762
+2013,"MOZ","Mozambique",349530
+2013,"MRT","Mauritania",2562
+2013,"MSR","Montserrat",280
+2013,"MUS","Mauritius",3
+2013,"MWI","Malawi",114986
+2013,"MYS","Malaysia",2380
+2013,"NAM","Namibia",111898
+2013,"NER","Niger",14274
+2013,"NGA","Nigeria",763415
+2013,"NIC","Nicaragua",11486
+2013,"NIU","Niue",9
+2013,"NPL","Nepal",16020
+2013,"NRU","Nauru",7
+2013,"PAK","Pakistan",9305
+2013,"PAN","Panama",2293
+2013,"PER","Peru",1307
+2013,"PHL","Philippines",2704
+2013,"PLW","Palau",9
+2013,"PNG","Papua New Guinea",93116
+2013,"PRK","North Korea",0
+2013,"PRY","Paraguay",17
+2013,"PSE","Palestine",495
+2013,"QZA","Unallocated/Unspecified",1742321
+2013,"ROU","Romania",0
+2013,"RWA","Rwanda",173754
+2013,"SDN","Sudan",22348
+2013,"SEN","Senegal",27296
+2013,"SHN","Saint Helena",0
+2013,"SLB","Solomon Islands",11
+2013,"SLE","Sierra Leone",13605
+2013,"SLV","El Salvador",19449
+2013,"SOM","Somalia",1084
+2013,"SRB","Serbia",4893
+2013,"SSD","South Sudan",23654
+2013,"STP","Sao Tome and Principe",917
+2013,"SUR","Suriname",780
+2013,"SWZ","Swaziland",48625
+2013,"SYC","Seychelles",0
+2013,"SYR","Syria",21
+2013,"TCD","Chad",13961
+2013,"TGO","Togo",1925
+2013,"THA","Thailand",41249
+2013,"TJK","Tajikistan",13503
+2013,"TKL","Tokelau",1
+2013,"TKM","Turkmenistan",174
+2013,"TLS","Timor-Leste",2135
+2013,"TON","Tonga",9
+2013,"TUN","Tunisia",624
+2013,"TUR","Turkey",0
+2013,"TUV","Tuvalu",9
+2013,"TZA","Tanzania",389109
+2013,"UGA","Uganda",432341
+2013,"UKR","Ukraine",69682
+2013,"URY","Uruguay",0
+2013,"UZB","Uzbekistan",5986
+2013,"VCT","Saint Vincent and the Grenadines",463
+2013,"VEN","Venezuela",41
+2013,"VNM","Vietnam",73038
+2013,"VUT","Vanuatu",18
+2013,"WLD","Global",1986364
+2013,"WLF","Wallis and Futuna Islands",0
+2013,"WSM","Samoa",10
+2013,"YEM","Yemen",1560
+2013,"ZAF","South Africa",596890
+2013,"ZMB","Zambia",431610
+2013,"ZWE","Zimbabwe",68959
+2014,"AFG","Afghanistan",3127
+2014,"AGO","Angola",16382
+2014,"ALB","Albania",138
+2014,"ARG","Argentina",135
+2014,"ARM","Armenia",4173
+2014,"ATG","Antigua and Barbuda",0
+2014,"AZE","Azerbaijan",4691
+2014,"BDI","Burundi",24552
+2014,"BEN","Benin",8782
+2014,"BFA","Burkina Faso",11870
+2014,"BGD","Bangladesh",7697
+2014,"BGR","Bulgaria",4848
+2014,"BIH","Bosnia and Herzegovina",30
+2014,"BLR","Belarus",5314
+2014,"BLZ","Belize",502
+2014,"BOL","Bolivia",1346
+2014,"BRA","Brazil",5005
+2014,"BTN","Bhutan",3
+2014,"BWA","Botswana",81902
+2014,"CAF","Central African Republic",5796
+2014,"CHL","Chile",47
+2014,"CHN","China",8997
+2014,"CIV","Cote d'Ivoire",143682
+2014,"CMR","Cameroon",45104
+2014,"COD","Democratic Republic of the Congo",63836
+2014,"COG","Congo",3423
+2014,"COK","Cook Islands",0
+2014,"COL","Colombia",588
+2014,"COM","Comoros",986
+2014,"CPV","Cape Verde",1468
+2014,"CRI","Costa Rica",215
+2014,"CUB","Cuba",2680
+2014,"DJI","Djibouti",2736
+2014,"DMA","Dominica",68
+2014,"DOM","Dominican Republic",17966
+2014,"DZA","Algeria",52
+2014,"ECU","Ecuador",684
+2014,"EGY","Egypt",591
+2014,"ERI","Eritrea",22724
+2014,"ETH","Ethiopia",326750
+2014,"FJI","Fiji",0
+2014,"FSM","Federated States of Micronesia",87
+2014,"GAB","Gabon",2005
+2014,"GEO","Georgia",7538
+2014,"GHA","Ghana",6500
+2014,"GIN","Guinea",12506
+2014,"GMB","The Gambia",7479
+2014,"GNB","Guinea-Bissau",2598
+2014,"GNQ","Equatorial Guinea",0
+2014,"GRD","Grenada",68
+2014,"GTM","Guatemala",8583
+2014,"GUY","Guyana",9793
+2014,"HND","Honduras",10607
+2014,"HTI","Haiti",176959
+2014,"IDN","Indonesia",49182
+2014,"IND","India",113201
+2014,"IRN","Iran",91
+2014,"IRQ","Iraq",32
+2014,"JAM","Jamaica",9170
+2014,"JOR","Jordan",1250
+2014,"KAZ","Kazakhstan",1213
+2014,"KEN","Kenya",667980
+2014,"KGZ","Kyrgyzstan",8084
+2014,"KHM","Cambodia",33813
+2014,"KIR","Kiribati",1
+2014,"KSV","Kosovo",1378
+2014,"LAO","Laos",4289
+2014,"LBN","Lebanon",47
+2014,"LBR","Liberia",2461
+2014,"LBY","Libya",21
+2014,"LCA","Saint Lucia",68
+2014,"LKA","Sri Lanka",1699
+2014,"LSO","Lesotho",35266
+2014,"MAR","Morocco",237
+2014,"MDA","Moldova",8997
+2014,"MDG","Madagascar",3338
+2014,"MDV","Maldives",0
+2014,"MEX","Mexico",3304
+2014,"MHL","Marshall Islands",1405
+2014,"MKD","Macedonia",1208
+2014,"MLI","Mali",7907
+2014,"MMR","Myanmar",32015
+2014,"MNE","Montenegro",823
+2014,"MNG","Mongolia",928
+2014,"MOZ","Mozambique",350703
+2014,"MRT","Mauritania",830
+2014,"MSR","Montserrat",68
+2014,"MUS","Mauritius",109
+2014,"MWI","Malawi",105387
+2014,"MYS","Malaysia",3478
+2014,"NAM","Namibia",91040
+2014,"NER","Niger",8027
+2014,"NGA","Nigeria",134937
+2014,"NIC","Nicaragua",14400
+2014,"NIU","Niue",0
+2014,"NPL","Nepal",7376
+2014,"NRU","Nauru",0
+2014,"PAK","Pakistan",9430
+2014,"PAN","Panama",1232
+2014,"PER","Peru",925
+2014,"PHL","Philippines",3946
+2014,"PLW","Palau",0
+2014,"PNG","Papua New Guinea",98209
+2014,"PRK","North Korea",0
+2014,"PRY","Paraguay",1122
+2014,"PSE","Palestine",1
+2014,"QZA","Unallocated/Unspecified",1675544
+2014,"ROU","Romania",913
+2014,"RWA","Rwanda",245374
+2014,"SDN","Sudan",14302
+2014,"SEN","Senegal",18408
+2014,"SHN","Saint Helena",0
+2014,"SLB","Solomon Islands",2
+2014,"SLE","Sierra Leone",21714
+2014,"SLV","El Salvador",2971
+2014,"SOM","Somalia",956
+2014,"SRB","Serbia",1363
+2014,"SSD","South Sudan",21297
+2014,"STP","Sao Tome and Principe",615
+2014,"SUR","Suriname",100
+2014,"SWZ","Swaziland",51879
+2014,"SYC","Seychelles",0
+2014,"SYR","Syria",54
+2014,"TCD","Chad",11965
+2014,"TGO","Togo",1705
+2014,"THA","Thailand",27000
+2014,"TJK","Tajikistan",6782
+2014,"TKL","Tokelau",0
+2014,"TKM","Turkmenistan",150
+2014,"TLS","Timor-Leste",2378
+2014,"TON","Tonga",1
+2014,"TUN","Tunisia",107
+2014,"TUR","Turkey",0
+2014,"TUV","Tuvalu",1
+2014,"TZA","Tanzania",400767
+2014,"UGA","Uganda",352452
+2014,"UKR","Ukraine",63933
+2014,"URY","Uruguay",0
+2014,"UZB","Uzbekistan",9215
+2014,"VCT","Saint Vincent and the Grenadines",68
+2014,"VEN","Venezuela",1
+2014,"VNM","Vietnam",55749
+2014,"VUT","Vanuatu",2
+2014,"WLD","Global",2001757
+2014,"WLF","Wallis and Futuna Islands",0
+2014,"WSM","Samoa",1
+2014,"YEM","Yemen",638
+2014,"ZAF","South Africa",611590
+2014,"ZMB","Zambia",13295
+2014,"ZWE","Zimbabwe",80327
+2015,"AFG","Afghanistan",3706
+2015,"AGO","Angola",18380
+2015,"ALB","Albania",0
+2015,"ARG","Argentina",2641
+2015,"ARM","Armenia",522
+2015,"ATG","Antigua and Barbuda",0
+2015,"AZE","Azerbaijan",3833
+2015,"BDI","Burundi",17216
+2015,"BEN","Benin",1711
+2015,"BFA","Burkina Faso",16913
+2015,"BGD","Bangladesh",4447
+2015,"BGR","Bulgaria",2588
+2015,"BIH","Bosnia and Herzegovina",6
+2015,"BLR","Belarus",4093
+2015,"BLZ","Belize",2343
+2015,"BOL","Bolivia",1637
+2015,"BRA","Brazil",3469
+2015,"BTN","Bhutan",0
+2015,"BWA","Botswana",3621
+2015,"CAF","Central African Republic",3259
+2015,"CHL","Chile",31
+2015,"CHN","China",5686
+2015,"CIV","Cote d'Ivoire",79419
+2015,"CMR","Cameroon",45918
+2015,"COD","Democratic Republic of the Congo",80650
+2015,"COG","Congo",3574
+2015,"COK","Cook Islands",0
+2015,"COL","Colombia",303
+2015,"COM","Comoros",371
+2015,"CPV","Cape Verde",1004
+2015,"CRI","Costa Rica",1426
+2015,"CUB","Cuba",8125
+2015,"DJI","Djibouti",6773
+2015,"DMA","Dominica",83
+2015,"DOM","Dominican Republic",21169
+2015,"DZA","Algeria",40
+2015,"ECU","Ecuador",1097
+2015,"EGY","Egypt",1355
+2015,"ERI","Eritrea",3800
+2015,"ETH","Ethiopia",170983
+2015,"FJI","Fiji",8
+2015,"FSM","Federated States of Micronesia",138
+2015,"GAB","Gabon",74
+2015,"GEO","Georgia",7821
+2015,"GHA","Ghana",3608
+2015,"GIN","Guinea",10562
+2015,"GMB","The Gambia",4430
+2015,"GNB","Guinea-Bissau",5285
+2015,"GNQ","Equatorial Guinea",110
+2015,"GRD","Grenada",83
+2015,"GTM","Guatemala",10394
+2015,"GUY","Guyana",4194
+2015,"HND","Honduras",7889
+2015,"HTI","Haiti",120073
+2015,"IDN","Indonesia",43116
+2015,"IND","India",213462
+2015,"IRN","Iran",58
+2015,"IRQ","Iraq",1
+2015,"JAM","Jamaica",4869
+2015,"JOR","Jordan",265
+2015,"KAZ","Kazakhstan",4936
+2015,"KEN","Kenya",499409
+2015,"KGZ","Kyrgyzstan",10822
+2015,"KHM","Cambodia",34188
+2015,"KIR","Kiribati",27
+2015,"KSV","Kosovo",753
+2015,"LAO","Laos",2591
+2015,"LBN","Lebanon",221
+2015,"LBR","Liberia",5618
+2015,"LBY","Libya",0
+2015,"LCA","Saint Lucia",83
+2015,"LKA","Sri Lanka",1461
+2015,"LSO","Lesotho",24744
+2015,"MAR","Morocco",303
+2015,"MDA","Moldova",262
+2015,"MDG","Madagascar",142
+2015,"MDV","Maldives",0
+2015,"MEX","Mexico",1131
+2015,"MHL","Marshall Islands",30
+2015,"MKD","Macedonia",3179
+2015,"MLI","Mali",21671
+2015,"MMR","Myanmar",13971
+2015,"MNE","Montenegro",0
+2015,"MNG","Mongolia",2426
+2015,"MOZ","Mozambique",355922
+2015,"MRT","Mauritania",958
+2015,"MSR","Montserrat",83
+2015,"MUS","Mauritius",4
+2015,"MWI","Malawi",76850
+2015,"MYS","Malaysia",1056
+2015,"NAM","Namibia",46971
+2015,"NER","Niger",8135
+2015,"NGA","Nigeria",320065
+2015,"NIC","Nicaragua",5674
+2015,"NIU","Niue",22
+2015,"NPL","Nepal",13146
+2015,"NRU","Nauru",16
+2015,"PAK","Pakistan",20490
+2015,"PAN","Panama",1002
+2015,"PER","Peru",698
+2015,"PHL","Philippines",2089
+2015,"PLW","Palau",22
+2015,"PNG","Papua New Guinea",55995
+2015,"PRK","North Korea",0
+2015,"PRY","Paraguay",71
+2015,"PSE","Palestine",113
+2015,"QZA","Unallocated/Unspecified",1707483
+2015,"ROU","Romania",415
+2015,"RUS","Russia",330
+2015,"RWA","Rwanda",136201
+2015,"SDN","Sudan",6325
+2015,"SEN","Senegal",17856
+2015,"SHN","Saint Helena",0
+2015,"SLB","Solomon Islands",30
+2015,"SLE","Sierra Leone",7237
+2015,"SLV","El Salvador",9099
+2015,"SOM","Somalia",485
+2015,"SRB","Serbia",13
+2015,"SSD","South Sudan",10729
+2015,"STP","Sao Tome and Principe",212
+2015,"SUR","Suriname",241
+2015,"SWZ","Swaziland",39086
+2015,"SYC","Seychelles",0
+2015,"SYR","Syria",9
+2015,"TCD","Chad",7184
+2015,"TGO","Togo",532
+2015,"THA","Thailand",12206
+2015,"TJK","Tajikistan",5551
+2015,"TKL","Tokelau",0
+2015,"TKM","Turkmenistan",474
+2015,"TLS","Timor-Leste",310
+2015,"TON","Tonga",23
+2015,"TUN","Tunisia",31
+2015,"TUR","Turkey",8
+2015,"TUV","Tuvalu",23
+2015,"TZA","Tanzania",286121
+2015,"UGA","Uganda",249636
+2015,"UKR","Ukraine",26835
+2015,"URY","Uruguay",0
+2015,"UZB","Uzbekistan",5838
+2015,"VCT","Saint Vincent and the Grenadines",83
+2015,"VEN","Venezuela",41
+2015,"VNM","Vietnam",5216
+2015,"VUT","Vanuatu",50
+2015,"WLD","Global",1769645
+2015,"WLF","Wallis and Futuna Islands",0
+2015,"WSM","Samoa",28
+2015,"YEM","Yemen",77
+2015,"ZAF","South Africa",332631
+2015,"ZMB","Zambia",187667
+2015,"ZWE","Zimbabwe",74764
+2016,"AFG","Afghanistan",4635
+2016,"AGO","Angola",28131
+2016,"ALB","Albania",0
+2016,"ARG","Argentina",1186
+2016,"ARM","Armenia",2311
+2016,"ATG","Antigua and Barbuda",0
+2016,"AZE","Azerbaijan",4634
+2016,"BDI","Burundi",19148
+2016,"BEN","Benin",9309
+2016,"BFA","Burkina Faso",7735
+2016,"BGD","Bangladesh",6252
+2016,"BGR","Bulgaria",738
+2016,"BIH","Bosnia and Herzegovina",255
+2016,"BLR","Belarus",2911
+2016,"BLZ","Belize",0
+2016,"BOL","Bolivia",127
+2016,"BRA","Brazil",4834
+2016,"BTN","Bhutan",0
+2016,"BWA","Botswana",65332
+2016,"CAF","Central African Republic",10403
+2016,"CHL","Chile",19
+2016,"CHN","China",3304
+2016,"CIV","Cote d'Ivoire",23867
+2016,"CMR","Cameroon",55769
+2016,"COD","Democratic Republic of the Congo",116824
+2016,"COG","Congo",4117
+2016,"COK","Cook Islands",0
+2016,"COL","Colombia",2158
+2016,"COM","Comoros",36
+2016,"CPV","Cape Verde",123
+2016,"CRI","Costa Rica",1985
+2016,"CUB","Cuba",7150
+2016,"CXR","Christmas Island",103
+2016,"DJI","Djibouti",2296
+2016,"DMA","Dominica",187
+2016,"DOM","Dominican Republic",17995
+2016,"DZA","Algeria",39
+2016,"ECU","Ecuador",103
+2016,"EGY","Egypt",1041
+2016,"ERI","Eritrea",6519
+2016,"ETH","Ethiopia",309324
+2016,"FJI","Fiji",8
+2016,"FSM","Federated States of Micronesia",34
+2016,"GAB","Gabon",150
+2016,"GEO","Georgia",6667
+2016,"GHA","Ghana",27761
+2016,"GIN","Guinea",19450
+2016,"GMB","The Gambia",331
+2016,"GNB","Guinea-Bissau",2238
+2016,"GNQ","Equatorial Guinea",79
+2016,"GRD","Grenada",187
+2016,"GTM","Guatemala",11166
+2016,"GUY","Guyana",5837
+2016,"HND","Honduras",2587
+2016,"HRV","Croatia",0
+2016,"HTI","Haiti",4646
+2016,"IDN","Indonesia",43320
+2016,"IND","India",103663
+2016,"IRN","Iran",1973
+2016,"IRQ","Iraq",0
+2016,"JAM","Jamaica",9778
+2016,"JOR","Jordan",559
+2016,"KAZ","Kazakhstan",3541
+2016,"KEN","Kenya",495007
+2016,"KGZ","Kyrgyzstan",10947
+2016,"KHM","Cambodia",29529
+2016,"KIR","Kiribati",22
+2016,"KSV","Kosovo",652
+2016,"LAO","Laos",4949
+2016,"LBN","Lebanon",31
+2016,"LBR","Liberia",7529
+2016,"LBY","Libya",3
+2016,"LCA","Saint Lucia",187
+2016,"LKA","Sri Lanka",1738
+2016,"LSO","Lesotho",63399
+2016,"MAR","Morocco",2879
+2016,"MDA","Moldova",3861
+2016,"MDG","Madagascar",2231
+2016,"MDV","Maldives",0
+2016,"MEX","Mexico",254
+2016,"MHL","Marshall Islands",25
+2016,"MKD","Macedonia",56
+2016,"MLI","Mali",13476
+2016,"MMR","Myanmar",40368
+2016,"MNE","Montenegro",0
+2016,"MNG","Mongolia",1228
+2016,"MOZ","Mozambique",389375
+2016,"MRT","Mauritania",39
+2016,"MSR","Montserrat",0
+2016,"MUS","Mauritius",493
+2016,"MWI","Malawi",231125
+2016,"MYS","Malaysia",1189
+2016,"NAM","Namibia",78327
+2016,"NER","Niger",6069
+2016,"NGA","Nigeria",362750
+2016,"NIC","Nicaragua",17681
+2016,"NIU","Niue",20
+2016,"NPL","Nepal",3681
+2016,"NRU","Nauru",16
+2016,"PAK","Pakistan",5554
+2016,"PAN","Panama",280
+2016,"PER","Peru",237
+2016,"PHL","Philippines",503
+2016,"PLW","Palau",20
+2016,"PNG","Papua New Guinea",57225
+2016,"PRK","North Korea",0
+2016,"PRY","Paraguay",173
+2016,"PSE","Palestine",0
+2016,"QZA","Unallocated/Unspecified",1665979
+2016,"ROU","Romania",274
+2016,"RUS","Russia",18
+2016,"RWA","Rwanda",131766
+2016,"SDN","Sudan",11940
+2016,"SEN","Senegal",7738
+2016,"SHN","Saint Helena",0
+2016,"SLB","Solomon Islands",64
+2016,"SLE","Sierra Leone",10728
+2016,"SLV","El Salvador",4779
+2016,"SOM","Somalia",194
+2016,"SRB","Serbia",213
+2016,"SSD","South Sudan",15989
+2016,"STP","Sao Tome and Principe",28
+2016,"SUR","Suriname",10
+2016,"SWZ","Swaziland",86826
+2016,"SYC","Seychelles",0
+2016,"SYR","Syria",331
+2016,"TCD","Chad",9939
+2016,"TGO","Togo",9337
+2016,"THA","Thailand",5526
+2016,"TJK","Tajikistan",11151
+2016,"TKL","Tokelau",1
+2016,"TKM","Turkmenistan",289
+2016,"TLS","Timor-Leste",958
+2016,"TON","Tonga",21
+2016,"TUN","Tunisia",402
+2016,"TUR","Turkey",7
+2016,"TUV","Tuvalu",20
+2016,"TZA","Tanzania",487371
+2016,"UGA","Uganda",442622
+2016,"UKR","Ukraine",59226
+2016,"URY","Uruguay",0
+2016,"UZB","Uzbekistan",12354
+2016,"VCT","Saint Vincent and the Grenadines",187
+2016,"VEN","Venezuela",5
+2016,"VNM","Vietnam",25337
+2016,"VUT","Vanuatu",44
+2016,"WLD","Global",1913538
+2016,"WLF","Wallis and Futuna Islands",0
+2016,"WSM","Samoa",298
+2016,"YEM","Yemen",2
+2016,"ZAF","South Africa",558926
+2016,"ZMB","Zambia",47269
+2016,"ZWE","Zimbabwe",211199
+2017,"AFG","Afghanistan",3390
+2017,"AGO","Angola",23070
+2017,"ALB","Albania",35
+2017,"ARG","Argentina",34
+2017,"ARM","Armenia",1657
+2017,"ATG","Antigua and Barbuda",0
+2017,"AZE","Azerbaijan",2936
+2017,"BDI","Burundi",40019
+2017,"BEN","Benin",9866
+2017,"BFA","Burkina Faso",12551
+2017,"BGD","Bangladesh",5679
+2017,"BGR","Bulgaria",7
+2017,"BIH","Bosnia and Herzegovina",0
+2017,"BLR","Belarus",4696
+2017,"BLZ","Belize",46
+2017,"BOL","Bolivia",235
+2017,"BRA","Brazil",5268
+2017,"BTN","Bhutan",2
+2017,"BWA","Botswana",51913
+2017,"CAF","Central African Republic",9202
+2017,"CHL","Chile",14
+2017,"CHN","China",2228
+2017,"CIV","Cote d'Ivoire",166053
+2017,"CMR","Cameroon",98734
+2017,"COD","Democratic Republic of the Congo",140182
+2017,"COG","Congo",7885
+2017,"COK","Cook Islands",0
+2017,"COL","Colombia",2452
+2017,"COM","Comoros",16
+2017,"CPV","Cape Verde",0
+2017,"CRI","Costa Rica",1406
+2017,"CUB","Cuba",5584
+2017,"DJI","Djibouti",2813
+2017,"DMA","Dominica",388
+2017,"DOM","Dominican Republic",29241
+2017,"DZA","Algeria",515
+2017,"ECU","Ecuador",56
+2017,"EGY","Egypt",63
+2017,"ERI","Eritrea",13964
+2017,"ETH","Ethiopia",264671
+2017,"FJI","Fiji",3
+2017,"FSM","Federated States of Micronesia",19
+2017,"GAB","Gabon",420
+2017,"GEO","Georgia",6951
+2017,"GHA","Ghana",42847
+2017,"GIN","Guinea",5433
+2017,"GMB","The Gambia",241
+2017,"GNB","Guinea-Bissau",177
+2017,"GNQ","Equatorial Guinea",40
+2017,"GRD","Grenada",388
+2017,"GTM","Guatemala",10851
+2017,"GUY","Guyana",2050
+2017,"HND","Honduras",5667
+2017,"HTI","Haiti",115215
+2017,"IDN","Indonesia",38139
+2017,"IND","India",92663
+2017,"IRN","Iran",0
+2017,"IRQ","Iraq",0
+2017,"JAM","Jamaica",10824
+2017,"JOR","Jordan",301
+2017,"KAZ","Kazakhstan",2845
+2017,"KEN","Kenya",451201
+2017,"KGZ","Kyrgyzstan",2912
+2017,"KHM","Cambodia",33326
+2017,"KIR","Kiribati",12
+2017,"KSV","Kosovo",518
+2017,"LAO","Laos",5254
+2017,"LBN","Lebanon",36
+2017,"LBR","Liberia",11202
+2017,"LBY","Libya",2
+2017,"LCA","Saint Lucia",388
+2017,"LKA","Sri Lanka",2016
+2017,"LSO","Lesotho",60088
+2017,"MAR","Morocco",96
+2017,"MDA","Moldova",4954
+2017,"MDG","Madagascar",1060
+2017,"MDV","Maldives",0
+2017,"MEX","Mexico",1626
+2017,"MHL","Marshall Islands",12
+2017,"MKD","Macedonia",5
+2017,"MLI","Mali",17132
+2017,"MMR","Myanmar",48204
+2017,"MNE","Montenegro",0
+2017,"MNG","Mongolia",1702
+2017,"MOZ","Mozambique",425761
+2017,"MRT","Mauritania",45
+2017,"MSR","Montserrat",0
+2017,"MUS","Mauritius",2248
+2017,"MWI","Malawi",198593
+2017,"MYS","Malaysia",716
+2017,"NAM","Namibia",102884
+2017,"NER","Niger",5348
+2017,"NGA","Nigeria",121638
+2017,"NIC","Nicaragua",11777
+2017,"NIU","Niue",12
+2017,"NPL","Nepal",2506
+2017,"NRU","Nauru",8
+2017,"PAK","Pakistan",3903
+2017,"PAN","Panama",0
+2017,"PER","Peru",677
+2017,"PHL","Philippines",1292
+2017,"PLW","Palau",12
+2017,"PNG","Papua New Guinea",31661
+2017,"PRK","North Korea",0
+2017,"PRY","Paraguay",256
+2017,"PSE","Palestine",2915
+2017,"QZA","Unallocated/Unspecified",1634235
+2017,"ROU","Romania",0
+2017,"RUS","Russia",6245
+2017,"RWA","Rwanda",131174
+2017,"SDN","Sudan",2008
+2017,"SEN","Senegal",10956
+2017,"SHN","Saint Helena",0
+2017,"SLB","Solomon Islands",12
+2017,"SLE","Sierra Leone",17819
+2017,"SLV","El Salvador",7863
+2017,"SOM","Somalia",465
+2017,"SRB","Serbia",98
+2017,"SSD","South Sudan",38060
+2017,"STP","Sao Tome and Principe",4
+2017,"SUR","Suriname",777
+2017,"SWZ","Swaziland",90769
+2017,"SYC","Seychelles",0
+2017,"SYR","Syria",0
+2017,"TCD","Chad",11264
+2017,"TGO","Togo",10182
+2017,"THA","Thailand",1256
+2017,"TJK","Tajikistan",9185
+2017,"TKL","Tokelau",0
+2017,"TKM","Turkmenistan",17
+2017,"TLS","Timor-Leste",1060
+2017,"TON","Tonga",12
+2017,"TUN","Tunisia",0
+2017,"TUR","Turkey",18
+2017,"TUV","Tuvalu",12
+2017,"TZA","Tanzania",472244
+2017,"UGA","Uganda",436541
+2017,"UKR","Ukraine",33590
+2017,"URY","Uruguay",0
+2017,"UZB","Uzbekistan",10194
+2017,"VCT","Saint Vincent and the Grenadines",388
+2017,"VEN","Venezuela",12
+2017,"VNM","Vietnam",77892
+2017,"VUT","Vanuatu",22
+2017,"WLD","Global",2366063
+2017,"WLF","Wallis and Futuna Islands",0
+2017,"WSM","Samoa",12
+2017,"YEM","Yemen",238
+2017,"ZAF","South Africa",527864
+2017,"ZMB","Zambia",336368
+2017,"ZWE","Zimbabwe",205910
+2018,"QZA","Unallocated/Unspecified",8844813
+2019,"QZA","Unallocated/Unspecified",8816636
