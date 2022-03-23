@@ -25,6 +25,7 @@ aid_data$dah_19_in_mill <- aid_data$sum_hiv_dah_19/10000
 
 aid_data$dah_19_centered <- aid_data$dah_19_in_mill - mean(aid_data$dah_19_in_mill)
 
+
 aid_lme <- lmer(
   estimated_incidence_num ~dah_19_centered + year + (1 + year|iso3c), 
   data=aid_data,
