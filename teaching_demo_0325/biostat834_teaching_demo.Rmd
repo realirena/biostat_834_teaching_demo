@@ -15,7 +15,9 @@ library(merTools)
 ```
 
 ```{r load_dataset}
-aid_data <- read.csv("~/irena/biostat_834_demo/data/biostat_834_dataset.csv")
+## change this to your own directory 
+working_dir <- "~/irena/biostat_834_demo/0325_teaching_demo/"
+aid_data <- read.csv(paste0(working_dir, "biostat_834_dataset.csv"))
 ```
 
 ```{r run_lmm}
@@ -74,7 +76,7 @@ Would not actually recommend running this chunk unless your computer is much fas
 
 
 ```{r load_bayesian_model}
-bayes_lmm <- readRDS("~/irena/biostat_834_demo/data/bayes_lmm_example.RDS")
+bayes_lmm <- readRDS(paste0(working_dir,"/bayes_lmm_example.RDS")
 ```
 
 ```{r plot_random_slope_effects_bayes}
