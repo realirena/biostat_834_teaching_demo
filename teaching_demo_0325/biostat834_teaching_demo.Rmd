@@ -22,7 +22,7 @@ aid_data <- read.csv(paste0(working_dir, "biostat_834_dataset.csv"))
 
 ```{r run_lmm}
 aid_lme <- lmer(
-  estimated_incidence_num ~dah_19_centered + year + (1 + year|iso3c), 
+  estimated_incidence_num ~ dah_19_in_mill  + year + (1 + year|iso3c), 
   data=aid_data,
   control=lmerControl(optimizer="bobyqa", optCtrl=list(maxfun=1e4)))
 
@@ -76,7 +76,7 @@ Would not actually recommend running this chunk unless your computer is much fas
 
 
 ```{r load_bayesian_model}
-bayes_lmm <- readRDS(paste0(working_dir,"/bayes_lmm_example.RDS")
+bayes_lmm <- readRDS(paste0(working_dir,"/bayes_lmm_example.RDS"))
 ```
 
 ```{r plot_random_slope_effects_bayes}
@@ -93,7 +93,8 @@ ggplot(post_ranef_subset, aes(x=iso3c, y=Estimate, group=iso3c, color=iso3c)) +
   theme(plot.title=element_text(size=24, face="bold", hjust = 0.5), 
         legend.text =  element_text(size=14),
         legend.title =  element_text(size=16),
-        plot.subtitle=element_text(size=18, face="bold", hjust = 0.5), axis.title = element_text(size=14),
+        plot.subtitle=element_text(size=18, face="bold", hjust = 0.5), 
+        axis.title = element_text(size=14),
         axis.text.x = element_text(size=14,angle =45, face="bold", vjust = 1, hjust = 1),
         axis.text.y = element_text(size=14))
 
