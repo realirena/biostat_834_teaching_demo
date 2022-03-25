@@ -34,13 +34,9 @@ aid_lme <- lmer(
 summary(aid_lme) 
 
 country_subset <- c("SVN", "EST","TTO","HRV", "AGO")
-
 randomSims <- REsim(aid_lme, n.sims = 5000)
-
 randomSims <- randomSims[randomSims$groupID%in%country_subset&randomSims$term=="year",]
 # and to plot it
-
-
 ggplot(randomSims, aes(x=groupID, y=mean, group=groupID, color=groupID)) + 
   geom_point(size=3) + 
   scale_y_continuous(labels = scales::comma) + 
@@ -70,8 +66,7 @@ aid_num_obs_by_country <- aid_data_noNA %>%
   group_by(iso3c) %>%
   tally()
 
-
-
+aid_data_noNA <- na.omit(aid_data[,c("dah_19_in_mill" ,"estimated_incidence_num", "year", "iso3c")])
 bayes_lmm <- brm(estimated_incidence_num~ 1 + dah_19_in_mill + year + (1 + year|iso3c), 
                  data=aid_data_noNA,
                  family=gaussian(),
@@ -96,6 +91,8 @@ coef(bayes_lmm)
 plot(bayes_lmm, variable=c("^b", "sigma", "sd", "L"), regex = TRUE) 
 
 summary(bayes_lmm,pars=c("b_Intercept", "b_year", "b_dah_19_in_mill"))
+
+
 library(bayesplot)
 color_scheme_set("red") #from bayesplot
 theme_set(ggthemes::theme_gdocs())
@@ -104,11 +101,17 @@ post_ranef <- data.frame(ranef(bayes_lmm)$iso3c[,,2])
 post_ranef$iso3c <- rownames(post_ranef)
 post_ranef_subset <- post_ranef[post_ranef$iso3c%in%country_subset,]
 
-
-
 ggplot(post_ranef_subset, aes(x=iso3c, y=Estimate, group=iso3c, color=iso3c)) + 
   geom_point(size=3) + 
   geom_hline(yintercept=0, color="red") + 
-  geom_pointrange(aes(ymin=Q2.5, ymax=Q97.5), size=1.25)
+  geom_pointrange(aes(ymin=Q2.5, ymax=Q97.5), size=1.25) + 
+  theme_bw() + 
+  theme(plot.title=element_text(size=24, face="bold", hjust = 0.5), 
+        legend.text =  element_text(size=14),
+        legend.title =  element_text(size=16),
+        plot.subtitle=element_text(size=18, face="bold", hjust = 0.5), axis.title = element_text(size=14),
+        axis.text.x = element_text(size=14,angle =45, face="bold", vjust = 1, hjust = 1),
+        axis.text.y = element_text(size=14))
+
 
 

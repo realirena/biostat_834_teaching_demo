@@ -5,25 +5,121 @@ date: '2022-03-23'
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+library(lme4)
+library(brms)
+library(rstan)
+library(afex)
+library(nlme)
+library(tidyverse)
+library(merTools)
 ```
 
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
+```{r load_dataset}
+aid_data <- read.csv("~/irena/biostat_834_demo/data/biostat_834_dataset.csv")
 ```
 
-## Including Plots
+```{r run_lmm}
+aid_lme <- lmer(
+  estimated_incidence_num ~dah_19_centered + year + (1 + year|iso3c), 
+  data=aid_data,
+  control=lmerControl(optimizer="bobyqa", optCtrl=list(maxfun=1e4)))
 
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
+summary(aid_lme) 
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+```{r plot_random_slope_effects}
+
+country_subset <- c("SVN", "EST","TTO","HRV", "AGO")
+randomSims <- REsim(aid_lme, n.sims = 5000)
+randomSims <- randomSims[randomSims$groupID%in%country_subset&randomSims$term=="year",]
+# and to plot it
+ggplot(randomSims, aes(x=groupID, y=mean, group=groupID, color=groupID)) + 
+  geom_point(size=10) + 
+  scale_y_continuous(labels = scales::comma) + 
+  labs(x="Country iso3c", y="Mean Estimate") + 
+  theme_bw() + 
+    theme(plot.title=element_text(size=24, face="bold", hjust = 0.5), 
+        legend.text =  element_text(size=14),
+        legend.title =  element_text(size=16),
+          plot.subtitle=element_text(size=18, face="bold", hjust = 0.5), axis.title = element_text(size=14),
+          axis.text.x = element_text(size=14,angle =45, face="bold", vjust = 1, hjust = 1),
+          axis.text.y = element_text(size=14))
+  
+
+```
+# Bayesian LMMs to the rescue? 
+
+Would not actually recommend running this chunk unless your computer is much faster than mine (very possible!) Instead, skip to the next chunk to load the model results into the environment! 
+
+```{r bayesian_lmm}
+# aid_data_noNA <- na.omit(aid_data[,c("dah_19_in_mill" ,"estimated_incidence_num", "year", "iso3c")])
+
+# bayes_lmm <- brm(estimated_incidence_num~ 1 + dah_19_in_mill + year + (1 + year|iso3c), 
+#                  data=aid_data_noNA,
+#                  family=gaussian(),
+#                  prior= c(
+#                    prior(normal(0, 10), class = Intercept),
+#                    prior(normal(0, 10), class = b),
+#                    prior(cauchy(0, 1), class = sigma),
+#                    prior(cauchy(0, 1), class = sd)),
+#                  warmup = 1000, 
+#                  iter = 2000, 
+#                  chains = 4, 
+#                  control = list(
+#                    adapt_delta = 0.98, 
+#                    max_treedepth=40)
+#                  )
+
+```
+
+
+```{r load_bayesian_model}
+bayes_lmm <- readRDS("~/irena/biostat_834_demo/data/bayes_lmm_example.RDS")
+```
+
+```{r plot_random_slope_effects_bayes}
+
+post_ranef <- data.frame(ranef(bayes_lmm)$iso3c[,,2])
+post_ranef$iso3c <- rownames(post_ranef)
+post_ranef_subset <- post_ranef[post_ranef$iso3c%in%country_subset,]
+
+ggplot(post_ranef_subset, aes(x=iso3c, y=Estimate, group=iso3c, color=iso3c)) + 
+  geom_point(size=3) + 
+  geom_hline(yintercept=0, color="red") + 
+  geom_pointrange(aes(ymin=Q2.5, ymax=Q97.5), size=1.25) + 
+  theme_bw() + 
+  theme(plot.title=element_text(size=24, face="bold", hjust = 0.5), 
+        legend.text =  element_text(size=14),
+        legend.title =  element_text(size=16),
+        plot.subtitle=element_text(size=18, face="bold", hjust = 0.5), axis.title = element_text(size=14),
+        axis.text.x = element_text(size=14,angle =45, face="bold", vjust = 1, hjust = 1),
+        axis.text.y = element_text(size=14))
+
+
+```
+
+```{r plot_both_models_random_slope_effects}
+
+randomSims$Q2.5 <- 0
+randomSims$Q97.5 <- 0
+randomSims$model <- "lmm"
+post_ranef_subset$model <- "bayesian"
+colnames(randomSims)[c(2, 4)] <- c("iso3c", "Estimate")
+plotRanSims <- rbind(post_ranef_subset[,-2], randomSims[,c(4, 7:8, 2, 9)])
+
+
+ggplot(plotRanSims, aes(x=iso3c, y=Estimate, group=iso3c, color=model)) + 
+  geom_point(size=3) + 
+  scale_color_manual(values=c("#A020F0", "#248f24")) + 
+  geom_hline(yintercept=0, color="red") + 
+  geom_pointrange(aes(ymin=Q2.5, ymax=Q97.5), size=1.25) + 
+  theme_bw() + 
+  theme(plot.title=element_text(size=24, face="bold", hjust = 0.5), 
+        legend.text =  element_text(size=26),
+        legend.title =  element_text(size=24),
+        plot.subtitle=element_text(size=18, face="bold", hjust = 0.5), axis.title = element_text(size=14),
+        axis.text.x = element_text(size=20,angle =45, face="bold", vjust = 1, hjust = 1),
+        axis.text.y = element_text(size=20))
+
+```
+
